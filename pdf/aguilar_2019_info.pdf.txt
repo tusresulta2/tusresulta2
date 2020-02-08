@@ -1,0 +1,57 @@
+XXIII C.P. Ciudad de Aguilar
+#FECHA: Domingo 27/10/19
+#LUGAR: Aguilar de la Frontera (Córdoba)
+#INSCRIPCIONES: corredorespopulares.com
+#PRECIO: Gratis categorías base y 3€ adultos 
+
+#CARRERAS:
+
+$$ICON_HORAHora:09:45h ICON_DISTANCIADistancia 100m
+ICON_CATEGORIAChupete (2014-2015)
+
+$$ICON_HORAHora:10:10h ICON_DISTANCIADistancia 200m
+ICON_CATEGORIAPrebenjamin (2012-2013)
+
+$$ICON_HORAHora:10:15h ICON_DISTANCIADistancia 400m
+ICON_CATEGORIABenjamin (2010-2011)
+
+$$ICON_HORAHora:10:30h ICON_DISTANCIADistancia 800m
+ICON_CATEGORIAAlevin(2008-2009)
+
+$$ICON_HORAHora:10:45h ICON_DISTANCIADistancia 400m
+ICON_CATEGORIADiscapacitad@s psíquic@s
+
+$$ICON_HORAHora:11:00h ICON_DISTANCIADistancia 1200m
+ICON_CATEGORIAInfantil (2006-2007)
+
+$$ICON_HORAHora:11:30h ICON_DISTANCIADistancia 1800m
+ICON_CATEGORIACadete (2004-2005)
+
+$$ICON_HORAHora:18:00h ICON_DISTANCIADistancia 10K
+ICON_CATEGORIAVeterano D (1966 y anteriores)
+ICON_CATEGORIAVeterano C (1967-1971)
+ICON_CATEGORIAVeterano B (1972-1977)
+ICON_CATEGORIAVeterano A (1978-1983)
+ICON_CATEGORIASenior B (1984-1989)
+ICON_CATEGORIASenior A (1990-1996)
+ICON_CATEGORIAJunior (1997-2001)
+ICON_CATEGORIAJuvenil (2002-2003)
+
+#PREMIOS:
+3 primer@s de cada categoría
+Medalla para todos los participantes de categorías base
+
+TROFEOS PRUEBA REINA
+Trofeo 3 primer@s de la general
+Económico 10 primer@s de la general (150, 80, 40, 30, 20, 15, 10, 10, 10, 10)
+
+TROFEOS LOCALES
+3 primer@s locales Trofeo y económico (60, 30, 15)
+
+#MAS:
+RECOGIDA DE DORSALES:
+Desde las 8:30h a 9:30h Categorías base.
+Desde las 8:30h a 10:30h prueba reina.
+
+RESULTADOS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

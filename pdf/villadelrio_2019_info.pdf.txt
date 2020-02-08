@@ -1,0 +1,49 @@
+C.P. Villa del Río
+#FECHA:Viernes 30/08/19
+#LUGAR:Pabellón Cubierto Municipal de Villa del Río (Córdoba)
+#INSCRIPCIONES:online en masatletismo.com hasta el 28/08/19
+#PRECIO:3€ Prueba Reina y 2€ cadetes a chupetes
+
+#CARRERAS:
+$$ICON_HORAHora:20:00h ICON_DISTANCIADistancia 70m
+ICON_CATEGORIAChupete (2014-2015)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 150m
+ICON_CATEGORIAPrebenjamin (2012-2016)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 400m
+ICON_CATEGORIABenjamin (2010-2011)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 1000m
+ICON_CATEGORIAAlevin(2008-2009)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 2000m
+ICON_CATEGORIAInfantil (2006-2007)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 3000m
+ICON_CATEGORIACadete (2004-2005)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 150m
+ICON_CATEGORIADiscap.Psiq.
+
+$$ICON_HORAHora:21:30h ICON_DISTANCIADistancia 6000m
+ICON_CATEGORIAVeterano D (1966 y anteriores)
+ICON_CATEGORIAVeterano C (1967-1971)
+ICON_CATEGORIAVeterano B (1972-1977)
+ICON_CATEGORIAVeterano A (1978-1983)
+ICON_CATEGORIASenior B (1984-1989)
+ICON_CATEGORIASenior A (1990-1996)
+ICON_CATEGORIAJunior (1997-2001)
+ICON_CATEGORIAJuvenil (2002-2003)
+ICON_CATEGORIASilla Ruedas
+ICON_CATEGORIADiscap. a pie
+
+#PREMIOS:
+Primer clasificad@ de la general M/F
+Medalla a los 3 primer@s clasificad@s de todas las categorías
+3 primer@s locales de todas las categorías
+
+#MAS:
+Reparto de dorsales desde las 17:30h el día de la prueba en el Pabellón Municipal.
+
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

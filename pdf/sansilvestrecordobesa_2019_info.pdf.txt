@@ -1,0 +1,39 @@
+XXXVII San Silvestre Cordobesa
+#FECHA:Martes 31/12/19
+#LUGAR: Avenida del Mediterráneo - Plaza Marina Española (Córdoba)
+#INSCRIPCIONES: tusinscripciones.es hasta el 28 de Diciembre a las 24h
+#PRECIO: 3€ benjamin y alevin y 7€ desde infantiles a veteran@s
+
+#CARRERAS:
+
+$$ICON_HORAHora:15:15h ICON_DISTANCIADistancia 1100m
+ICON_CATEGORIAAlevin (2008-2009)
+ICON_CATEGORIABenjamin (2010-2011)
+
+$$ICON_HORAHora:15:45h ICON_DISTANCIADistancia 1600m
+ICON_CATEGORIACadete (2004-2005)
+$$ICON_HORAHora:15:45h ICON_DISTANCIADistancia 3200m
+ICON_CATEGORIAInfantil (2006-2007)
+
+$$ICON_HORAHora:16:30h ICON_DISTANCIADistancia 10000m
+ICON_CATEGORIAVeterano D (1969 y anteriores)
+ICON_CATEGORIAVeterano C (1974-1968)
+ICON_CATEGORIAVeterano B (1979-1975)
+ICON_CATEGORIAVeterano A (1984-1980)
+ICON_CATEGORIASenior (1999-1985)
+ICON_CATEGORIAJunior (2000-2001)
+ICON_CATEGORIAJuvenil (2002-2003)
+ICON_CATEGORIASilla de Ruedas
+ICON_CATEGORIADiscapacitad@
+
+#PREMIOS:
+Trofeo 1 primer@ de la general absoluta
+3 primer@s de cada categoría
+1 primer@ local
+
+#MAS:
+RECOGIDA DE DORSALES:
+29-30-31 de Diciembre 2019 de 10h a 14h en el Centro Sociocultural El Parque. Avenida del Mediterráneo (Bajo Cine Almirante)
+
+RESULTADOS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

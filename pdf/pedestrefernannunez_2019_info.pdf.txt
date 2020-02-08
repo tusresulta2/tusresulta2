@@ -1,0 +1,36 @@
+I Vuelta Pedestre Fernán Núñez
+#FECHA:Viernes 16/08/19
+#LUGAR:Fernan-Nuñez (Córdoba) Paseo de Sta. Marina
+#INSCRIPCIONES:online en atletismofaa.es y presencial en el Pabellón de Deportes hasta el viernes 8 de Agosto 
+#PRECIO: GRATUITA 0€
+
+#CARRERAS:
+$$ICON_HORAHora:19:00h ICON_DISTANCIADistancia 50m
+ICON_CATEGORIAChupetines (2016-2017)
+ICON_CATEGORIAChupetes (2014-2015)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 150m
+ICON_CATEGORIAPrebenjamines (2012-2013)
+ICON_CATEGORIABenjamines (2010-2011)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 600m
+ICON_CATEGORIAAlevines (2008-2009)
+ICON_CATEGORIAInfantiles(2006-2007)
+ICON_CATEGORIACadetes(2004-2005)
+
+$$ICON_HORAHora:20:00h ICON_DISTANCIADistancia 5000m
+ICON_CATEGORIAAbsolut@s (2003 y anteriores)
+ICON_CATEGORIADiscapacitad@s a pie
+
+#PREMIOS:
+Menores: medalla para tod@s l@s participantes
+
+Absoluta: NO SON PREMIOS ACUMULABLES excepto los locales (máx. 2 premios)
+3 primer@s de la general
+3 primer@s discapacitad@s
+3 primer@s locales
+
+Camiseta conmemorativa para tod@s l@s participantes
+
+#MAS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

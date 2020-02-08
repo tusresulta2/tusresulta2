@@ -1,0 +1,56 @@
+XI C.P. Torrecampo
+#FECHA: Sábado 02/10/19
+#LUGAR: Torrecampo (Córdoba)
+#INSCRIPCIONES: masatletismo.com hasta el 31 de Octubre
+#PRECIO: Gratis categorías base y 6€ adultos 
+
+#CARRERAS:
+
+$$ICON_HORAHora:10:00h ICON_DISTANCIADistancia 2000m
+ICON_CATEGORIACadete (2004-2005)
+
+$$ICON_HORAHora:10:10h ICON_DISTANCIADistancia 2000m
+ICON_CATEGORIAInfantil (2006-2007)
+
+$$ICON_HORAHora:10:35h ICON_DISTANCIADistancia 800m
+ICON_CATEGORIAAlevin(2008-2009)
+
+$$ICON_HORAHora:10:50h ICON_DISTANCIADistancia 400m
+ICON_CATEGORIABenjamin (2010-2011)
+
+$$ICON_HORAHora:11:00h ICON_DISTANCIADistancia 200m
+ICON_CATEGORIAPrebenjamin (2012-2013)
+
+$$ICON_HORAHora:11:20h ICON_DISTANCIADistancia 200m
+ICON_CATEGORIAChupete (2014-2019)
+
+
+$$ICON_HORAHora:12:00h ICON_DISTANCIADistancia 4200m
+ICON_CATEGORIAVeterano A, B, C, D (1983 y anteriores)
+ICON_CATEGORIASenior A, B (1984-1996)
+ICON_CATEGORIAJunior (1997-2001)
+ICON_CATEGORIAJuvenil (2002-2003)
+ICON_CATEGORIADiscapacidad física
+
+#PREMIOS:
+
+PRUEBAS BASE
+Medalla 3 primer@s de cada categoría
+
+PRUEBA REINA
+3 primer@s de la General Trofeo + metálico (150€, 90€, 60€)
+1 Primer@ de cada categoría Trofeo (Juvenil, Junior, Senior, Veteran@, Discapacidad)
+
+TROFEOS LOCALES
+1 Primer@ local
+
+#MAS:
+
+SALIDA Plaza de la Iglesia
+META Calle Gracia
+
+RECOGIDA DE DORSALES: hasta 30 minutos antes en Meta
+
+
+RESULTADOS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

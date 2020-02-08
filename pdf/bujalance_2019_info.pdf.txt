@@ -1,0 +1,45 @@
+VI Carrera Popular Arquitectura el Sol Bujalance
+#FECHA:Sábado 31/08/19
+#LUGAR:Puerta del Ayuntamiento de Bujalance (Córdoba)
+#INSCRIPCIONES:online en masatletismo.com y presencial en el Gimnasio Municipal y Casa de la Juventud hasta el 28/08/19
+#PRECIO:5€ Prueba Reina y 1Kilo solidaridario desde cadetes a chupetes
+
+#CARRERAS:
+$$ICON_HORAHora:21:00h ICON_DISTANCIADistancia 100m
+ICON_CATEGORIAChupete (2014-2019)
+ICON_CATEGORIAPrebenjamin (2012-2013)
+
+$$ICON_HORAHora:21:15h ICON_DISTANCIADistancia 300m
+ICON_CATEGORIABenjamin (2010-2011)
+
+$$ICON_HORAHora:21:30h ICON_DISTANCIA
+ICON_CATEGORIADiscap.Psiq.
+
+$$ICON_HORAHora:21:30h ICON_DISTANCIADistancia 500m
+ICON_CATEGORIAAlevin(2008-2009)
+
+$$ICON_HORAHora:21:40h ICON_DISTANCIADistancia 1000m
+ICON_CATEGORIAInfantil (2006-2007)
+
+$$ICON_HORAHora:22:00hICON_DISTANCIADistancia 2500m (1 vuelta prueba reina)
+ICON_CATEGORIACadete (2004-2005)
+
+$$ICON_HORAHora:22:00h ICON_DISTANCIADistancia 5000m (2 vueltas prueba reina)
+ICON_CATEGORIAVeterano D (1966 y anteriores)
+ICON_CATEGORIAVeterano C (1967-1971)
+ICON_CATEGORIAVeterano B (1972-1977)
+ICON_CATEGORIAVeterano A (1978-1983)
+ICON_CATEGORIASenior B (1984-1989)
+ICON_CATEGORIASenior A (1990-1996)
+ICON_CATEGORIAJunior (1997-2001)
+ICON_CATEGORIAJuvenil (2002-2003)
+
+#PREMIOS:
+3 primer@s clasificad@s de la prueba reina
+Medalla a los 3 primer@s clasificad@s de cadetes a chupetes.
+Primer@ local de la prueba reina.
+
+#MAS:
+Reparto de dorsales desde las 17:00h - 21:00h el día de la prueba
+
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

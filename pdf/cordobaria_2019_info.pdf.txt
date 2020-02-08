@@ -1,0 +1,21 @@
+7ª Cordobaria
+#FECHA:Sábado 12/10/19
+#LUGAR: Balcón del Guadalquivir (Córdoba)
+#INSCRIPCIONES: masatletismo.com
+#PRECIO: 5€ que se canjearán por aceite
+
+#CARRERAS:
+
+$$ICON_HORAHora:10:00h ICON_DISTANCIADistancia 5K
+ICON_CATEGORIAAbsoluta
+
+#PREMIOS:
+
+TROFEOS PRUEBA REINA
+1 primer@ de la general
+Medalla 1 primer@s menores
+
+#MAS:
+
+RESULTADOS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

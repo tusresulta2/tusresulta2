@@ -1,0 +1,47 @@
+XVI C.P. María Auxiliadora Montilla
+#FECHA:Sabado 22/06/19
+#LUGAR:Montilla, Plaza de puerta Montilla (junto al pabellón Municipal).
+#INSCRIPCIONES:online en www.carrerasalesianosmontilla.es hasta 19 junio a las 14h
+#PRECIO: 5€ Juvenil-Veteranos y 2€ de Chupetes a Cadetes
+
+#CARRERAS:
+$$ICON_HORAHora:20:00h ICON_DISTANCIADistancia 100m
+ICON_CATEGORIAChupete (2014-2019)
+
+$$ICON_HORAHora:20:10h ICON_DISTANCIADistancia 350m
+ICON_CATEGORIAPrebenjamin (2012-2013)
+
+$$ICON_HORAHora:20:15h ICON_DISTANCIADistancia 350m
+ICON_CATEGORIADiscap.Psiq.
+
+$$ICON_HORAHora:20:20h ICON_DISTANCIADistancia 800m
+ICON_CATEGORIABenjamin (2010-2011)
+
+$$ICON_HORAHora:20:40h ICON_DISTANCIADistancia 1500m
+ICON_CATEGORIAAlevin(2008-2009)
+
+$$ICON_HORAHora:21:00h ICON_DISTANCIADistancia 3000m (2 vueltas)
+ICON_CATEGORIAInfantil (2006-2007)
+ICON_CATEGORIACadete (2004-2005) 
+
+$$ICON_HORAHora:22:00h ICON_DISTANCIADistancia 5000m (1 vuelta)
+ICON_CATEGORIAJuvenil (2002-2003)
+ICON_CATEGORIASilla Ruedas
+
+$$ICON_HORAHora:22:00h ICON_DISTANCIADistancia 10000m (2 vueltas)
+ICON_CATEGORIAVeterano D (1966 y anteriores)
+ICON_CATEGORIAVeterano C (1967-1971)
+ICON_CATEGORIAVeterano B (1972-1977)
+ICON_CATEGORIAVeterano A (1978-1983)
+ICON_CATEGORIASenior B (1984-1989)
+ICON_CATEGORIASenior A (1990-1996)
+ICON_CATEGORIAJunior/Promesa (1997-2001)
+
+#PREMIOS:
+1 de la general masculino y femenino
+3 primeros clasificados de cada categoría m/f
+Bolsa para todos los participantes
+
+#MAS:
+Recogida de dorsales, Viernes 21 de 18:00h a 20:00h en el Colegio Salesianos y desde las 18:30h a 20:30h el día de la carrera en el área de la salida.
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

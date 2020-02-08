@@ -1,0 +1,56 @@
+Cordoba AJE - Aira Running Series
+#FECHA:Domingo 15/Dic/19
+#LUGAR:Córdoba (Parque Miraflores)
+#INSCRIPCIONES: running-series.com desde 22/07/19 a 12/12/19
+#PRECIO:
+8€ carrera absoluta (hasta 20 días antes de la prueba) y 10€ a continuación
+21€ inscripción a las 3 carreras a la vez (Circuito)
+1€ carreras infantiles/familiar (Donados a la asociación Mia o que hago)
+
+#CARRERAS:
+$$ICON_HORAHora:10:00h
+ICON_DISTANCIA5K (1v)
+	ICON_CATEGORIA Individual Masculino 5K
+	ICON_CATEGORIA Individual Femenino 5K
+	ICON_CATEGORIA Pareja Masculino 5K
+	ICON_CATEGORIA Pareja Femenino 5K
+	ICON_CATEGORIA Pareja Mixto (1 hombre + 1 mujer) 5K
+	ICON_CATEGORIA Pareja Especial (1 participante Discapacitad@) 5K
+	ICON_CATEGORIA Pareja EMPRESA Masculino 5K
+	ICON_CATEGORIA Pareja EMPRESA Femenino 5K
+	ICON_CATEGORIA Pareja EMPRESA Mixto (1 hombre + 1 mujer) 5K
+$$ICON_HORAHora:10:00h
+ICON_DISTANCIA10K (2v) 
+	ICON_CATEGORIA Individual Masculino 10K
+	ICON_CATEGORIA Individual Femenino 10K
+	ICON_CATEGORIA Equipo Masculino 10K
+	ICON_CATEGORIA Equipo Femenino 10K
+	ICON_CATEGORIA Equipo Mixto (2 hombre + 2 mujer) 10K
+	ICON_CATEGORIA Equipo Especial (1 participante Discapacitad@) 10K
+	ICON_CATEGORIA Equipo EMPRESA Masculino 10K
+	ICON_CATEGORIA Equipo EMPRESA Femenino 10K
+	ICON_CATEGORIA Equipo EMPRESA Mixto (2 hombre + 2 mujer) 10K
+	ICON_CATEGORIA Equipo EMPRESA Especial (1 participante Discapacitad@) 10K
+
+$$ICON_HORAHora:a continuación
+ICON_DISTANCIA1K ICON_CATEGORIA Carrera Infantil
+
+$$ICON_HORAHora:a continuación
+ICON_DISTANCIA0.5K ICON_CATEGORIA Carrera Familiar
+
+#PREMIOS:
+– Los tres primeros clasificados de cada categoría masculino y femenino
+Habrá bolsa del corredor para todos los participantes en las categorías de mayores.
+
+Categorías infantiles
+–Recibirán medallas.
+
+Otros regalos
+
+#MAS:
+
+Salida y Meta:
+Estará situada en Parque Miraflores (Córdoba)
+
+Resultados:
+Los resultados estarán disponibles en running-series.com

@@ -1,0 +1,52 @@
+﻿XXXI Cross Popular de Primavera
+#FECHA:Domingo 19/05/19
+#LUGAR:Polideportivo de La Rambla, Córdoba
+#INSCRIPCIONES: masatletismo.com hasta el 16/05/19
+#PRECIO:3€ absolutos, gratis base y discapacitados
+
+#CARRERAS:
+$$Hora:10:00h
+ICON_DISTANCIADistancia 6500m
+Veterano D (1966 y anteriores)
+Veterano C (1967-1971)
+Veterano B (1972-1977)
+Veterano A (1978-1983)
+Senior B (1984-1989)
+Senior A (1990-1996)
+Junior (1997-2001)
+Juvenil (2002-2003)
+Discapacitados
+
+$$Hora:11:00h
+ICON_DISTANCIADistancia 3000m
+Cadete (2004-2005)
+
+$$Hora:11:20h
+ICON_DISTANCIADistancia 2000m
+Infantil (2006-2007)
+
+$$Hora:11:35h
+ICON_DISTANCIADistancia 1000m en pista
+Alevin (2008-2009)
+
+$$Hora:11:50
+ICON_DISTANCIADistancia:600m em pista
+Benjamin (2010-2011)
+
+$$Hora:12:00h
+ICON_DISTANCIADistancia 400m en pista
+Prebenjamines
+
+#PREMIOS
+General 1º 125€
+General 2º 75€
+General 3º 25€
+
+Local 1º 60€
+Local 2º 40€
+Local 3º 20€
+
+Trofeo a los 3 primeros de cada categoría
+Medalla a tod@s l@s prebenjamines
+
+#MAS:Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

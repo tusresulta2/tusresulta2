@@ -1,0 +1,44 @@
+III Palmital Posadas Trail
+#FECHA:Domingo 20/10/19
+#LUGAR: La Sierrezuela, Posadas (Córdoba)
+#INSCRIPCIONES: http://www.posadastrail.com/
+#PRECIO:
+
+#CARRERAS:
+
+$$ICON_HORAHora:09:00h ICON_DISTANCIADistancia 29K 747+/748-m
+ICON_CATEGORIAExtreme Trail
+ICON_CATEGORIAAbsoluta (21 años en adelante)
+ICON_CATEGORIAPromesa (21-23 años)
+ICON_CATEGORIASenior (24-39 años)
+ICON_CATEGORIAVeteran@ (40-50 años)
+ICON_CATEGORIAMaster (51 años en adelante)
+ICON_CATEGORIALocal (Empadronado en Posadas)
+
+$$ICON_HORAHora:09:30h ICON_DISTANCIADistancia 14K 436+/437-m
+ICON_CATEGORIAPopular Trail
+ICON_CATEGORIAAbsoluta (21 años en adelante)
+ICON_CATEGORIAJunior (18-20 años)
+ICON_CATEGORIACadete (15-17 años)
+
+$$ICON_HORAHora:10:30h ICON_DISTANCIADistancia 14K
+ICON_CATEGORIAMarchadores
+
+#PREMIOS:
+*** NO ACUMULATIVOS ***
+
+TRAIL CORTO
+3 primer@s de cada categoría
+
+TRAIL LARGO
+3 primer@s absolutos
+3 primer@s de cada categoría
+
+#MAS:
+RECOGIDA DE DORSALES:
+De 7h a 8:30h para la Extreme Trail
+De 7h a 8:45h para la Popular Trail
+
+
+RESULTADOS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

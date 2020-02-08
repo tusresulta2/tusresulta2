@@ -1,0 +1,192 @@
+1	33	Juan Jesus Bravo Luna (malaga)	ALPINO BENALMADENA	03:55:58	07:09.00	1º-TAJO * ABS Masculino
+2	177	Ivan Ortiz Carrion (granada)	CLUB CERRO DEL CABALLO	04:13:21	07:40.06	2º-TAJO * ABS Masculino
+3	251	Antonio Jesus Valle Aguirre (granada)	SELECCION GRANADINA	04:19:02	07:50.09	3º-TAJO * ABS Masculino
+4	49	Juan Miguel Chacon Resina (malaga)	ALPINO BENALMADENA	04:21:58	07:56.02	1º-TAJO * VET Masculino
+5	229	Fernando Sanchez Fernandez	AGO TEAM	04:22:14	07:56.07	1º-TAJO * SEN Masculino
+6	83	Alberto Gamero Benitez (malaga)	ALPINO BENALMADENA	04:25:58	08:03.05	2º-TAJO * SEN Masculino
+7	258	Andres Viedma Muñoz(granada)	OLIMPO	04:28:43	08:08.05	3º-TAJO * SEN Masculino
+8	69	José María Espinar López (córdoba)	UMAX TRAIL	04:30:19	08:11.04	2º-TAJO * VET Masculino
+9	160	Angel Merino Muñoz (sevilla)	SELECCION SEVILLANA	04:33:16	08:16.08	4º-TAJO * SEN Masculino
+10	142	Adolfo Mariscal Jimena (granada)	ATLETISMO Y MONTAÑA ATARFE	04:33:40	08:17.05	5º-TAJO * SEN Masculino
+11	94	Jose Maria Garrido Reyes (cordoba)	HACHO TRAIL RUTE	04:36:54	08:23.04	6º-TAJO * SEN Masculino
+12	140	Daniel Luque Gonzalez (cordoba)	C.D. UMAX TRAIL	04:36:56	08:23.05	7º-TAJO * SEN Masculino
+13	1	Dani Garcia Gomez (sevilla)	SELECCION SEVILLANA	04:39:30	08:28.01	8º-TAJO * SEN Masculino
+14	31	Juan Miguel Berzosa Hervas (sevilla)	SELECCION SEVILLANA	04:40:16	08:29.05	3º-TAJO * VET Masculino
+15	71	Eduardo José Espinosa Bustos(cordoba)	CLUB ATLETISMO CORDOBÉS	04:40:31	08:30.00	1º-TAJO * PRO Masculino
+16	207	Alejandro Reina Algeciras (sevilla)	SELECCION SEVILLANA	04:40:38	08:30.02	9º-TAJO * SEN Masculino
+17	176	Raul Ortiz Cabello (malaga)	C.D. GRUPO ALPINO DE BENALMADENA	04:45:32	08:39.01	10º-TAJO * SEN Masculino
+18	264	Armando Zugasti Salado	BROTHERS BIKE	04:46:01	08:40.00	11º-TAJO * SEN Masculino
+19	36	Jesus Cabrera Aguilar (sevilla)	INDEPENDIENTE	04:46:04	08:40.00	12º-TAJO * SEN Masculino
+20	109	Javier Martin De Villa (granada)	INDEPENDIENTE	04:48:09	08:43.08	13º-TAJO * SEN Masculino
+21	250	Jose Antonio Urbaneja Carrasco (malaga)	INDEPENDIENTE	04:51:23	08:49.07	4º-TAJO * VET Masculino
+22	227	Juan Manuel Sanchez Contreras (huelva)	INDEPENDIENTE	04:51:25	08:49.08	5º-TAJO * VET Masculino
+23	184	Francisco Javier Pazo Torres (sevilla)	SELECCION SEVILLANA	04:51:50	08:50.05	6º-TAJO * VET Masculino
+24	145	Alejandro Martin Macias (huelva)	INDEPENDIENTE	04:54:21	08:55.01	14º-TAJO * SEN Masculino
+25	68	Miguel Escobar Carmona (huelva)	INDEPENDIENTE	04:56:32	08:59.01	15º-TAJO * SEN Masculino
+26	215	Juan Jose Rodriguez Perez (almeria)	INDEPENDIENTE	04:57:00	08:59.09	16º-TAJO * SEN Masculino
+27	243	Jose Antonio Tena Santos (jaen)	INDEPENDIENTE	04:57:12	09:00.03	7º-TAJO * VET Masculino
+28	52	Toni Contreras Jimenez (cordoba)	SUBBETICA OUTDOOR	04:58:44	09:03.01	8º-TAJO * VET Masculino
+29	67	Juan Antonio Rodriguez Martin (almeria)	INDEPENDIENTE	04:59:36	09:04.07	9º-TAJO * VET Masculino
+30	181	Vicente Padilla Herrera (jaen)	INDEPENDIENTE	05:01:45	09:08.06	10º-TAJO * VET Masculino
+31	268	Miguel Angel Trujillo Albendin	SIERRA SUR DE JAEN	05:02:51	09:10.06	11º-TAJO * VET Masculino
+32	135	Ruben Lopez Zuhero (jaen)	INDEPENDIENTE	05:02:57	09:10.08	17º-TAJO * SEN Masculino
+33	78	Victor Galiana Rebolledo (sevilla)	SELECCION SEVILLANA	05:03:11	09:11.02	18º-TAJO * SEN Masculino
+34	246	Antonio Alfonso Torres Diaz	BENALMÁDENA ALPINO ALS	05:03:13	09:11.02	19º-TAJO * SEN Masculino
+35	217	Antonio Ropero Roldan	UMAX TRAIL	05:03:42	09:12.01	12º-TAJO * VET Masculino
+36	131	Jose Manuel Lopez Lopez (granada)	INDEPENDIENTE	05:03:53	09:12.04	13º-TAJO * VET Masculino
+37	98	Sebastian Gomez Cerrejon(huelva)	INDEPENDIENTE	05:07:25	09:18.09	20º-TAJO * SEN Masculino
+38	210	Cesareo Rios Romero (cadiz)	INDEPENDIENTE	05:08:08	09:20.02	14º-TAJO * VET Masculino
+39	64	Miguel Ángel Diaz García	ATLETISMO ATRACON	05:08:30	09:20.08	15º-TAJO * VET Masculino
+40	167	Jesus Muñoz Rodriguez (jaen)	INDEPENDIENTE	05:10:48	09:25.00	21º-TAJO * SEN Masculino
+41	7	José David Aguilera Muñoz	C.D UMAX TRAIL	05:11:01	09:25.04	22º-TAJO * SEN Masculino
+42	117	Jesús Hinojo Archidona	GILCROSS TRAIL	05:13:18	09:29.06	2º-TAJO * PRO Masculino
+43	228	Jesus Ignacio Sanchez Delgado (cadiz)	CD. EURAFRICA TRAIL	05:16:10	09:34.08	16º-TAJO * VET Masculino
+44	9	Alejandro Albacete Ocaña (almeria)	INDEPENDIENTE	05:18:57	09:39.08	23º-TAJO * SEN Masculino
+45	104	Miguel Gonzalez Bueno	TRAIL NERJA	05:20:02	09:41.08	17º-TAJO * VET Masculino
+46	200	Jose Antonio Pluma Picon (huelva)	INDEPENDIENTE	05:20:09	09:42.00	24º-TAJO * SEN Masculino
+47	219	Jesus Rubio Tortosa(almeria)	INDEPENDIENTE	05:20:55	09:43.04	25º-TAJO * SEN Masculino
+48	124	Enrique Lazaro Perez (huelva)	INDEPENDIENTE	05:21:23	09:44.03	26º-TAJO * SEN Masculino
+49	192	Raul Perez Serrano (huelva)	INDEPENDIENTE	05:27:22	09:55.02	27º-TAJO * SEN Masculino
+50	196	Jacinto Picardo Arroyo	INDEPENDIENTE	05:27:37	09:55.06	28º-TAJO * SEN Masculino
+51	97	Antonio Gomez Ortiz	CARTAMA TRAIL	05:29:16	09:58.06	18º-TAJO * VET Masculino
+52	87	Francisco Ambrosio Garcia Moreno	C.D. CERRO JONETE	05:31:38	10:02.09	29º-TAJO * SEN Masculino
+53	118	Juan Ibernon Guerrero (granada)	INDEPENDIENTE	05:33:34	10:06.04	19º-TAJO * VET Masculino
+54	183	Leopoldo Pavón Puertas	ASCARI-HARMAN TRAIL RUNNING	05:34:50	10:08.07	30º-TAJO * SEN Masculino
+55	149	Oscar Martinez Cano (jaen)	INDEPENDIENTE	05:34:52	10:08.08	20º-TAJO * VET Masculino
+56	206	Ivan Ramírez Barea	CLUD MONTELLANO	05:35:09	10:09.03	31º-TAJO * SEN Masculino
+57	186	Juan Antonio Peragon Martos (jaen)	INDEPENDIENTE	05:37:13	10:13.01	32º-TAJO * SEN Masculino
+58	174	Jose Manuel Orellana Mateos(cadiz)	INDEPENDIENTE	05:38:23	10:15.02	33º-TAJO * SEN Masculino
+59	20	Francisco Jose Barrera Baena (cordoba)	PULSO TRAIL	05:38:39	10:15.07	21º-TAJO * VET Masculino
+60	163	Andrés Moreno Moreno (cordoba)	CLUB DE ATLETISMO CORDOBÉS	05:40:35	10:19.02	22º-TAJO * VET Masculino
+61	54	Javier Corrales Gallego	SELECCION SEVILLANA	05:44:26	10:26.02	34º-TAJO * SEN Masculino
+62	22	Raul Barriocanal Mancera	CEM SIERRA BLANCA	05:46:52	10:30.06	23º-TAJO * VET Masculino
+63	190	Salvador Perez Marin	ALPINO BENALMADENA ALS SPORT	05:49:57	10:36.02	1º-TAJO * MST Masculino
+64	239	Ángel Alberto Taday Sislema	INDEPENDIENTE	05:51:47	10:39.05	24º-TAJO * VET Masculino
+65	221	Francisco Rueda Morales	CD CERRO JONETE	05:51:48	10:39.06	35º-TAJO * SEN Masculino
+66	146	José María Martin Marques	CUEVAS DE NERJA UMA	05:53:37	10:42.09	25º-TAJO * VET Masculino
+67	119	Manuel Jimenez Carrasco	INDEPENDIENTE	05:54:36	10:44.07	36º-TAJO * SEN Masculino
+68	70	Daniel Espinar Ordoñez	ATRACON	05:54:47	10:45.00	37º-TAJO * SEN Masculino
+69	100	Serafin Gomez Miron (almeria)	INDEPENDIENTE	05:55:39	10:46.06	26º-TAJO * VET Masculino
+70	66	Jacinto Duran Rodríguez	INDEPENDIENTE	05:55:44	10:46.07	2º-TAJO * MST Masculino
+71	15	Javier Arco Nogales	CLUB ATLETISML ATRACÓN	05:57:50	10:50.05	3º-TAJO * PRO Masculino
+72	235	Manuel Santaella Cerero	TURDETANIA TEAM	06:03:15	11:00.04	3º-TAJO * MST Masculino
+73	199	José Antonio Plaza Ramirez	C,D.FUENTE DEL ACEBUCHE	06:03:16	11:00.04	38º-TAJO * SEN Masculino
+74	152	Fernando Martinez Ortega	C.D.HISPATRAIL	06:03:21	11:00.06	27º-TAJO * VET Masculino
+75	89	Raúl García Aranega (almeria)	CUELLAR STONE RUNNING TEAM	06:06:31	11:06.03	39º-TAJO * SEN Masculino
+76	16	Alfredo Augustin Vilchez	CERRO DEL CABALLO	06:08:50	11:10.06	4º-TAJO * MST Masculino
+77	266	Manuel Angel Rojas Morales	CERRO DEL CABALLO	06:10:43	11:14.00	28º-TAJO * VET Masculino
+78	170	Israel Navarro Fernandez	C.D.PATAPALOS HUELVA	06:12:38	11:17.04	29º-TAJO * VET Masculino
+79	103	Jose Manuel Bustamente Castaño (almeria)	INDEPENDIENTE	06:13:58	11:19.09	40º-TAJO * SEN Masculino
+80	256	Juan Jesus Vera Loabto	32054703V	06:15:17	11:22.03	30º-TAJO * VET Masculino
+81	247	Ruben Torres Jaen (cadiz)	INDEPENDIENTE	06:15:18	11:22.03	41º-TAJO * SEN Masculino
+82	108	Joaquín Guillén Marín	C.D. CERRO JONETE	06:16:09	11:23.09	31º-TAJO * VET Masculino
+83	141	Daniel Marchán Callado	INDEPENDIENTE	06:18:54	11:28.09	42º-TAJO * SEN Masculino
+84	29	Juan Francisco Berlanga Rojas	PIZARRAVENTURA	06:19:06	11:29.02	43º-TAJO * SEN Masculino
+85	155	Juan De Dios Mateos Garces (cadiz)	INDEPENDIENTE	06:28:50	11:46.09	5º-TAJO * MST Masculino
+86	96	Simon Gfeller	MONTANE/ESPORTIVA-ASKA	06:30:52	11:50.06	32º-TAJO * VET Masculino
+87	188	Amador Perena Cabrera	SELECCION SEVILLANA	06:42:00	12:10.09	44º-TAJO * SEN Masculino
+88	172	José Carlos Núñez López	ALPINO BENALMÁDENA ALS SPORT	06:44:51	12:16.00	4º-TAJO * PRO Masculino
+89	161	David Moreno Fernández	MEDIA TRAIL MIJAS	06:46:30	12:19.00	33º-TAJO * VET Masculino
+90	114	Mario Hernandez Carvajal	THE COJOS TEAM	06:48:28	12:22.06	45º-TAJO * SEN Masculino
+91	99	Antonio Gomez Martin	CERROJONETE	06:54:18	12:33.02	34º-TAJO * VET Masculino
+92	201	Alonso Pozo Moreno	CAMINA CORRE O REVIENTA	06:57:17	12:38.06	35º-TAJO * VET Masculino
+93	143	Raul Marmol Andujar	INDEPENDIENTE	06:57:26	12:38.09	36º-TAJO * VET Masculino
+94	198	David Pineda Tenes	C.D ADM	06:58:48	12:41.04	46º-TAJO * SEN Masculino
+95	265	Mario Zumaquero Gomez	CERRO JONETE	07:00:30	12:44.05	37º-TAJO * VET Masculino
+96	17	José Luis Badillo Domínguez	MUZZ TEAM	07:08:15	12:58.06	38º-TAJO * VET Masculino
+97	73	Francisco Javier Fernandez Jurado	BICHOS RUNNERS	07:09:15	13:00.04	39º-TAJO * VET Masculino
+98	25	Eduardo Bellini Ferrer	EURAFRICA TRAIL-ELITE RUNNER	07:10:35	13:02.08	6º-TAJO * MST Masculino
+99	55	Antonio Jesús Corrales Segundo	C.D.EURAFRICA TRAIL	07:10:45	13:03.01	47º-TAJO * SEN Masculino
+100	223	Juan Carlos Ruiz Cabrera	SIERRA CARBONERA	07:12:49	13:06.09	40º-TAJO * VET Masculino
+101	213	Antonio Rodriguez Fuentes	SIERRA CARBONERA	07:12:51	13:06.09	48º-TAJO * SEN Masculino
+102	32	Juan José Blanco Sánchez	DEPORTEMANIA CXM	07:23:17	13:25.09	41º-TAJO * VET Masculino
+103	194	Juan Miguel Pérez Gómez	ATLETISMO RINCON FERTILIDAD VELEZ	07:24:28	13:28.01	7º-TAJO * MST Masculino
+104	110	Carlos Gutiérrez Zapata	CLUB RINCON FERTILIDAD VÉLEZ	07:26:49	13:32.03	49º-TAJO * SEN Masculino
+105	253	Antonio Vaz Rodríguez	CLUB TRAIL SIERRA ABUELA	07:29:29	13:37.02	50º-TAJO * SEN Masculino
+106	144	Carlos Martin	TRAZACAMINOS	07:32:09	13:42.00	51º-TAJO * SEN Masculino
+107	224	Juan Antonio Ruiz Montero	RUNNERS BARREÑOS	07:34:51	13:46.09	42º-TAJO * VET Masculino
+108	248	Fernando Trujillo Navas	OLIMPO	07:34:57	13:47.01	43º-TAJO * VET Masculino
+109	168	Juan Carlos Muñoz Salas	RUNNER BARREÑO	07:39:33	13:55.05	44º-TAJO * VET Masculino
+110	65	José Antonio Diaz Godinez	INDEPENDIENTE	07:45:00	14:05.04	52º-TAJO * SEN Masculino
+111	10	Juan Jose Alcantara Perez	INDEPENDIENTE	07:45:30	14:06.03	8º-TAJO * MST Masculino
+112	147	Paco Martin Muñoz	BICHOS RUNNERS	07:47:11	14:09.04	9º-TAJO * MST Masculino
+113	240	Arcadio Tejada Roldan	INDEPENDIENTE	07:51:25	14:17.01	45º-TAJO * VET Masculino
+114	132	Rafael Lopez Marchan	CDA LOS CIEN METROS	08:03:12	14:38.05	10º-TAJO * MST Masculino
+115	193	Antonio Jesús Pérez Capitán	C.D.A. LOS 100 METROS DE ESTEPA	08:03:12	14:38.05	46º-TAJO * VET Masculino
+116	137	David Lorenzo Dominguez	CLUB TRAIL SIERRA ABUELA	08:11:57	14:54.04	47º-TAJO * VET Masculino
+117	173	Jose Luis Olmedo Perez	ATL Y MONTAÑA MANCHA REAL	08:16:52	15:03.03	48º-TAJO * VET Masculino
+118	180	José Antonio Ovalle Becerra	C, D BICHAS TRAIL & MOUNTAIN	08:17:43	15:04.09	49º-TAJO * VET Masculino
+119	2	Nikolov Tsvetko	INDEPENDIENTE	08:20:20	15:09.06	50º-TAJO * VET Masculino
+120	252	Pedro Vara Sánchez	CEM MARBELLA	08:20:22	15:09.07	11º-TAJO * MST Masculino
+121	125	Miguel Ángel Leiva Zea	FUENTE DEL ACEBUCHE	08:21:12	15:11.02	12º-TAJO * MST Masculino
+122	245	Ismael Tome Benitez	SIERRA CARBONERA	08:28:12	15:23.09	51º-TAJO * VET Masculino
+123	53	Antonio Javier Cordero Luque	PIZARRAVENTURA	08:28:42	15:24.08	53º-TAJO * SEN Masculino
+124	60	Argimiro De La Medica Moreno	INDEPENDIENTE	08:38:19	15:42.03	52º-TAJO * VET Masculino
+125	157	Juan Cristobal Medina Prieto	SIERRA BLANCA	08:38:24	15:42.05	53º-TAJO * VET Masculino
+126	159	Pedro Mera Oliva	CEM SIERRA BLANCA	08:38:27	15:42.06	54º-TAJO * SEN Masculino
+127	269	Rafael Benitez Roldan	C.D. LUNA LLENA	08:38:53	15:43.04	13º-TAJO * MST Masculino
+128	225	Gaspar Saborido Martínez	INDEPENDIENTE	08:39:09	15:43.09	54º-TAJO * VET Masculino
+129	249	Manuel Trujillo Guerrero	INDEPENDIENTE	08:39:10	15:43.09	55º-TAJO * SEN Masculino
+130	90	Sergio Luis García Medina	32052771V	08:39:33	15:44.06	55º-TAJO * VET Masculino
+131	261	Ivan Vivo Gallardo	JARAPALOS TRAIL	08:39:34	15:44.06	56º-TAJO * VET Masculino
+132	24	Marco Beato Tornay	INDEPENDIENTE	08:48:04	16:00.01	56º-TAJO * SEN Masculino
+133	150	Alvaro Martinez Delgado	KE ARTE	08:48:37	16:01.01	57º-TAJO * VET Masculino
+134	134	Luis Miguel Lopez Melgar	TRAIL	08:53:28	16:09.09	58º-TAJO * VET Masculino
+135	133	Francisco Javier Lopez Melgar	LA VEREITA MARBELLA	08:53:33	16:10.00	59º-TAJO * VET Masculino
+136	113	Antonio Hermoso Fernández	TRAZACAMINOS	09:08:01	16:36.03	14º-TAJO * MST Masculino
+1	197	Patricia Pineda Cornejo (cordoba)	INDEPENDIENTE	05:10:52	09:25.01	1º-TAJO * ABS Femenino
+2	263	Jurgita Zolbiene (almeria)	INDEPENDIENTE	05:18:50	09:39.06	2º-TAJO * ABS Femenino
+3	86	Sofia Garcia Martin (granada)	INDEPENDIENTE	05:19:07	09:40.02	3º-TAJO * ABS Femenino
+4	148	Amada Martinez Arenas (granada)	INDEPENDIENTE	05:21:29	09:44.05	1º-TAJO * SEN Femenino
+5	120	Ana María Jimenez Galvez (malaga)	INDEPENDIENTE	05:33:03	10:05.05	2º-TAJO * SEN Femenino
+6	262	Sonia Vizcaino Hungria (malaga)	INDEPENDIENTE	05:37:20	10:13.03	3º-TAJO * SEN Femenino
+7	236	Eva María Sayago Zambrano (malaga)	C.D. LOS CHAKALES RUNNERS	05:39:54	10:17.09	4º-TAJO * SEN Femenino
+8	34	Kirsty Brown (sevilla)	SELECCION SEVILLANA	05:42:23	10:22.04	5º-TAJO * SEN Femenino
+9	169	Carmen Flores Navarro Diaz (malaga)	INDEPENDIENTE	05:46:35	10:30.01	1º-TAJO * VET Femenino
+10	43	Mirian Carrasco Centenera (sevilla)	INDEPENDIENTE	05:50:06	10:36.05	2º-TAJO * VET Femenino
+11	13	Lourdes Aragon Moreno (malaga)	ALPINO BENALMADENA ALS SPORT	05:51:14	10:38.05	3º-TAJO * VET Femenino
+12	6	Virginia Aguilera Morales (cordoba)	UMAX TRAIL	05:56:34	10:48.02	6º-TAJO * SEN Femenino
+13	8	Mari Carmen Aguilera Muñoz (cordoba)	UMAX TRAIL	05:56:34	10:48.02	7º-TAJO * SEN Femenino
+14	178	Belinda Ortiz Ruiz (granada)	INDEPENDIENTE	06:08:49	11:10.05	4º-TAJO * VET Femenino
+15	4	Carmen Aguilar Girona	TRAZACAMINOS	06:15:55	11:23.04	8º-TAJO * SEN Femenino
+16	61	Verónica De Miguel Luken	TODOVERTICAL	06:20:16	11:31.03	5º-TAJO * VET Femenino
+17	5	Estela Aguilar Jimenez (granada)	INDEPENDIENTE	06:33:02	11:54.06	6º-TAJO * VET Femenino
+18	14	Olsen Gabriela Aramayo Mami(cadiz)	INDEPENDIENTE	06:35:40	11:59.03	9º-TAJO * SEN Femenino
+19	185	Francisca Peinado Garcia (almeria)	INDEPENDIENTE	06:35:43	11:59.04	7º-TAJO * VET Femenino
+20	48	Noelia Castillo Valle (cadiz)	SELECCION GADITANA	06:39:43	12:06.07	10º-TAJO * SEN Femenino
+21	111	Monica Henao Cardona (huelva)	INDEPENDIENTE	06:40:56	12:08.09	11º-TAJO * SEN Femenino
+22	40	Liliana Camelia Man (huelva)	INDEPENDIENTE	06:42:40	12:12.01	8º-TAJO * VET Femenino
+23	231	Charo Sanchez Jiménez (almeria)	CUÉLLAR STONE RUNNING TEAM	06:45:31	12:17.02	12º-TAJO * SEN Femenino
+24	21	Hassania Barrhouss (sevilla)	SELECCION SEVILLANA	06:45:44	12:17.06	13º-TAJO * SEN Femenino
+25	151	Maria Angeles Martinez Egea (almeria)	INDEPENDIENTE	06:46:46	12:19.05	14º-TAJO * SEN Femenino
+26	79	Eco Gallardo Diaz (sevilla)	SELECCION SEVILLANA	06:56:12	12:36.07	15º-TAJO * SEN Femenino
+27	220	Laura Rueda Alcalde (almeria)	INDEPENDIENTE	06:57:19	12:38.07	9º-TAJO * VET Femenino
+28	208	Mari Carmen Ramirez Vela (sevilla)	SELECCION SEVILLANA	06:59:44	12:43.01	10º-TAJO * VET Femenino
+29	37	Sandra Callejas Caballero (granada)	INDEPENDIENTE	07:04:08	12:51.01	16º-TAJO * SEN Femenino
+30	187	Natalia Peral Martinez	EURAFRICA TRAIL-ELITE RUNNER	07:10:45	13:03.01	17º-TAJO * SEN Femenino
+31	102	Paqui Gómez Tirado	INDEPENDIENTE	07:12:53	13:07.00	18º-TAJO * SEN Femenino
+32	238	Inmaculada Martinez Sanchez (almeria)	INDEPENDIENTE	07:19:05	13:18.03	11º-TAJO * VET Femenino
+33	18	Reyes Ballesta Meichsner (sevilla)	SELECCION SEVILLANA	07:23:15	13:25.09	12º-TAJO * VET Femenino
+34	154	Natalia Martinez Gómez Gómez	EURAFRICA TRAIL-ELITE RUNNER	07:26:01	13:30.09	1º-TAJO * MST Femenino
+35	182	Cristina Palomo Congosto(huelva)	INDEPENDIENTE	07:34:43	13:46.07	13º-TAJO * VET Femenino
+36	74	Esther Fernandez Olalla (huelva)	INDEPENDIENTE	07:34:49	13:46.09	19º-TAJO * SEN Femenino
+37	191	Maria Angustias Perez Riscardo (sevilla)	SELECCION SEVILLANA	07:36:22	13:49.07	14º-TAJO * VET Femenino
+38	257	Patricia Vidal Claduch (almeria)	INDEPENDIENTE	07:39:32	13:55.05	20º-TAJO * SEN Femenino
+39	255	Patricia Venegas Lopez (cadiz)	GIRONBIKE CANTINA ZAPATA	07:49:38	14:13.08	21º-TAJO * SEN Femenino
+40	232	Maria De Las Nieves Sanchez Ruiz (cadiz)	ALCORNOCALIZA TRAIL	07:49:54	14:14.03	15º-TAJO * VET Femenino
+41	42	Jamie Carabini	NERJA ATLETISMO	08:08:14	14:47.06	22º-TAJO * SEN Femenino
+42	205	Marta Quiñones De La Fuente (huelva)	INDEPENDIENTE	08:11:58	14:54.04	16º-TAJO * VET Femenino
+43	121	Inmaculada Jimenez Gila (jaen)	INDEPENDIENTE	08:16:28	15:02.06	23º-TAJO * SEN Femenino
+44	127	Tamara Lobato Asencio (cadiz)	TRAIL TEAM 3*4	08:20:19	15:09.06	24º-TAJO * SEN Femenino
+45	158	Inma Mellado Calderón (cordoba)	CLUB DEPORTIVO VERTICALIA	08:20:24	15:09.07	25º-TAJO * SEN Femenino
+46	126	Mercedes Llavero Torruellas (jaen)	INDEPENDIENTE	08:23:32	15:15.04	17º-TAJO * VET Femenino
+47	84	Veronica Garcia Doblado	INDEPENDIENTE	08:24:27	15:17.01	26º-TAJO * SEN Femenino
+48	211	Maria Jose Roa Guzman (jaen)	INDEPENDIENTE	08:30:00	15:27.02	18º-TAJO * VET Femenino
+49	19	Raquel Barragan Sanchez (jaen)	INDEPENDIENTE	08:30:03	15:27.03	19º-TAJO * VET Femenino
+50	254	Ana Vegas Ortiz	C.D. HONDONERO	08:31:18	15:29.06	27º-TAJO * SEN Femenino
+51	136	Silvia Lorente Romero	WE RUN	08:38:21	15:42.04	20º-TAJO * VET Femenino
+52	39	Beatriz Calvo Rodríguez	GRUPO SENDERISTA PRISMA	08:40:27	15:46.02	28º-TAJO * SEN Femenino
+53	195	Cristobalina Pérez González	CLUB TRAIL SIERRA ABUELA	08:42:17	15:49.05	29º-TAJO * SEN Femenino
+54	92	Paqui Garrido Cortes (jaen)	INDEPENDIENTE	08:57:24	16:17.00	21º-TAJO * VET Femenino
+55	72	Adriana Patricia Estrada Alzate	C.D LA VEREITA	08:59:41	16:21.02	22º-TAJO * VET Femenino
+56	76	Aura Filip	INDEPENDIENTE	08:59:46	16:21.03	30º-TAJO * SEN Femenino

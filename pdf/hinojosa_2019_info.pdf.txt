@@ -1,0 +1,65 @@
+42 Carrera Popular Ciudad de Hinojosa del Duque "Memorial Luciano Torrico"
+#FECHA:Sabado 03/08/19
+#LUGAR:Hinojosa (Córdoba) Plaza de la Catedral
+#INSCRIPCIONES:online en masatletismo.com hasta 1 de agosto 2019
+#PRECIO: 6€ categorías mayores (Juv-Vet) y 3€ categorías base (Prebenjamin-Cadetes)
+
+#CARRERAS:
+$$ICON_HORAHora:20:00h ICON_DISTANCIADistancia 300m
+ICON_CATEGORIAPrebenjamin(2012-2019)
+
+$$ICON_HORAHora:20:15h ICON_DISTANCIADistancia 600m
+ICON_CATEGORIABenjamin (2010-2011)
+
+$$ICON_HORAHora:20:30h ICON_DISTANCIADistancia 1200m
+ICON_CATEGORIAAlevin(2008-2009)
+
+$$ICON_HORAHora:20:45h ICON_DISTANCIADistancia 1800m
+ICON_CATEGORIAInfantil (2006-2007)
+ICON_CATEGORIACadete (2004-2005) 
+
+$$ICON_HORAHora:21:20h ICON_DISTANCIADistancia 3000m (1vuelta)
+ICON_CATEGORIAJuvenil M/F(2002-2003)
+
+$$ICON_HORAHora:21:20h ICON_DISTANCIADistancia 6000m (2vueltas)
+LAS CATEGORÍAS DE VETERANAS FEMENINO A-B-C-D será una sola categoría !!!
+ICON_CATEGORIAVeterana Femenino (1983 y anteriores)
+ICON_CATEGORIASenior B Femenino(1984-1989)
+ICON_CATEGORIASenior A Femenino(1990-1996)
+ICON_CATEGORIAJunior/Promesa Femenino(1997-2001)
+ICON_CATEGORIADiscapacitados Femenino
+
+$$ICON_HORAHora:21:20h ICON_DISTANCIADistancia 9000m (3vueltas)
+ICON_CATEGORIAVeterano D (1966 y anteriores)
+ICON_CATEGORIAVeterano C (1967-1971)
+ICON_CATEGORIAVeterano B (1972-1977)
+ICON_CATEGORIAVeterano A (1978-1983)
+ICON_CATEGORIASenior B (1984-1989)
+ICON_CATEGORIASenior A (1990-1996)
+ICON_CATEGORIAJunior/Promesa (1997-2001)
+ICON_CATEGORIADiscapacitados
+
+#PREMIOS:
+NO SON ACUMULABLES
+
+TROFEOS
+3 primeros general absoluta
+3 primeros de cada categoría
+Medalla para todos los Prebenjamines
+
+PREMIOS EN METÁLICO
+General Absoluta del 1º al 5º (100€, 80€, 60€, 40€, 30€)
+General LOCAL del 1º al 3º (40€, 30€, 20€)
+General DISCAPACIDAD del 1º al 3º (40€, 30€, 20€)
+
+#MAS:
+LAS CATEGORÍAS DE VETERANAS FEMENINO A-B-C-D será una sola categoría !!!
+
+JUVENILES 1 vuelta - 3000m
+JUNIOR A VETERANAS FEMENINO 2 vueltas - 6000m
+JUNIOR A VETERANOS MASCULINO 3 vueltas - 9000m
+
+RECODIGA DE DORSALES a partir de las 19:00h el día de la carrera.
+AVITUALLAMIENTOS: varios puntos de avituallamiento.
+
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

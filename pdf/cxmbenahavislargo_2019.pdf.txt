@@ -1,0 +1,167 @@
+	DORSAL	NOMBRE	CLUB	TIEMPO	PROMEDIO	CATEGORIA	
+1	99	Juan Jesus Bravo Luna	ALPINO BENALMÁDENA ALSSPORT	01:49:45	04:46.03	1º-TRAIL ABS Masculino	
+2	141	Josemi Jimenez Martin	CLUB ATLETISMO ESTEPONA	01:55:01	05:00.00	2º-TRAIL ABS Masculino	
+3	107	Jose Miguel Caracuel Romero	C.D. SAN PEDRO ATLETISMO	01:58:54	05:10.01	3º-TRAIL ABS Masculino	
+4	184	Daniel Sarrion Garcia	SAN PEDRO ATLETISMO	02:01:05	05:15.08	1º-TRAIL VET Masculino	
+5	128	Luis Garcia Martin	MC TRAINING	02:02:54	05:20.05	1º-TRAIL SEN Masculino	
+6	177	Francisco Rueda Aragon	C. D. FUENTE DEL ACEBUCHE	02:03:04	05:21.00	2º-TRAIL SEN Masculino	
+7	113	Antonio Javier Cortes Ramos		02:03:11	05:21.03	2º-TRAIL VET Masculino	
+8	95	Javier Arias	BROTHERS BIKE	02:06:00	05:28.06	3º-TRAIL SEN Masculino	
+9	90	Jose Carlos Alonso Gil	C. D TEAM 3X4	02:06:08	05:29.00	3º-TRAIL VET Masculino	
+10	12	Victor Manuel Doblas Bernal	SAN PEDRO ATLETISMO	02:06:43	05:30.05	4º-TRAIL SEN Masculino	
+11	20	Francisco Garcia Barrios		02:10:17	05:39.08	1º-TRAIL MST Masculino	
+12	160	Hamido Mustafa Mohamed	TERCIO DUQUE DE ALBA 2° LA LEGION	02:11:13	05:42.03	5º-TRAIL SEN Masculino	
+13	153	Sergio Medialdea Cobos	BROTHERS BIKE	02:11:14	05:42.03	6º-TRAIL SEN Masculino	
+14	138	Jose Rafael Hernandez Garcia	TRAZACAMINOS TRAIL	02:13:04	05:47.01	4º-TRAIL VET Masculino	
+15	166	David Pascua Roque	CD RUNNING TEAM ALGECIRAS	02:13:48	05:49.00	7º-TRAIL SEN Masculino	
+16	156	Juanjose Molinera Fernandez		02:17:42	05:59.02	5º-TRAIL VET Masculino	
+17	86	Jose Maria Abello Ramirez	ATLETISMO ESTEPONA	02:17:44	05:59.03	6º-TRAIL VET Masculino	
+18	165	Vicente Jesús Pantoja Ríos	C.D. LOS 4X4	02:18:52	06:02.02	1º-TRAIL PRO Masculino	
+19	50	Manuel Organvidez Rodriguez		02:19:10	06:03.00	7º-TRAIL VET Masculino	
+20	176	Javier Romo Moruno	TRAHILEROS	02:19:59	06:05.01	8º-TRAIL VET Masculino	
+21	149	Antonio Miguel López García	LOS MIRLOS VOLADORES	02:20:14	06:05.08	8º-TRAIL SEN Masculino	
+22	115	Antonio Criado Gonzalez	LOS ENTABLILLAOS	02:21:38	06:09.04	9º-TRAIL SEN Masculino	
+23	88	José Luis Aguilar Fernández	INDEPENDIENTE	02:21:59	06:10.03	10º-TRAIL SEN Masculino	
+24	97	Patricio Beltrán Montañez	BROTHER BIKE	02:23:32	06:14.04	9º-TRAIL VET Masculino	
+25	189	Javier Tapia Gonzalez	ISTÁN TEAM RAID	02:25:31	06:19.06	10º-TRAIL VET Masculino	
+26	131	Francisco Ambrosio García Moreno	C.D. CERRO JONETE	02:25:37	06:19.08	11º-TRAIL SEN Masculino	
+27	91	Luis Amores Cubero	ASCS	02:26:13	06:21.04	11º-TRAIL VET Masculino	
+28	133	Miguel Gomez Martinez	JARAPALOS TRAIL	02:26:54	06:23.01	12º-TRAIL VET Masculino	
+29	106	David Canto Reyes		02:27:10	06:23.08	13º-TRAIL VET Masculino	
+30	122	Pedro Espinosa Zurita	ALPINO BENALMÁDENA ALSSPORT	02:27:46	06:25.04	2º-TRAIL MST Masculino	
+31	117	Daniel De La Rosa Moreno	LOS ENTABLILLAOS	02:27:49	06:25.05	12º-TRAIL SEN Masculino	
+32	101	Francisco Burgos De La Rosa	LOS ENTABLILLAOS	02:27:49	06:25.06	13º-TRAIL SEN Masculino	
+33	116	Jesús De La Rosa Moreno	LOS ENTABLILLAOS	02:27:51	06:25.06	14º-TRAIL SEN Masculino	
+34	169	Óscar Peña López	LOS PIRATILLAS	02:28:07	06:26.03	14º-TRAIL VET Masculino	
+35	200	Jesús Román Montiel		02:28:07	06:26.03	15º-TRAIL VET Masculino	
+36	134	Juan Gómez Benítez	C.D. FUENTE DEL ACEBUCHE	02:28:27	06:27.02	15º-TRAIL SEN Masculino	
+37	105	Francisco Miguel Campos Tello	MONTAÑA TORREMOLINOS	02:29:26	06:29.08	3º-TRAIL MST Masculino	
+38	188	Ezequiel Suárez	SIERRA BERMEJA TRAIL/CLUB MONTAÑA ANYERA CEUTA	02:29:31	06:30.00	16º-TRAIL SEN Masculino	
+39	98	Moha Boujidi L	CUASICUARENTONES TORREMOLINOS	02:29:42	06:30.05	17º-TRAIL SEN Masculino	
+40	7	Jose Luis Calatayud Navarro		02:30:57	06:33.07	18º-TRAIL SEN Masculino	
+41	32	Alejandro Jimenez Infante	MTB 29SEIS70	02:30:59	06:33.08	19º-TRAIL SEN Masculino	
+42	185	Alejandro Solano Jimenez	C.D FUENTE DEL ACEBUCHE	02:31:14	06:34.04	20º-TRAIL SEN Masculino	
+43	37	Sergio López Hueso	BICHA TRAIL&MOUNTAIN	02:32:32	06:37.08	4º-TRAIL MST Masculino	
+44	69	Paco Rovi Criado	LA VEREITA	02:32:58	06:39.00	16º-TRAIL VET Masculino	
+45	23	Jorge Garcia Sánchez	SAN PEDRO ATLETISMO	02:33:00	06:39.01	17º-TRAIL VET Masculino	
+46	31	Santiago Ituño Cabas	A.D.JUBRIQUE	02:33:24	06:40.01	18º-TRAIL VET Masculino	
+47	93	Ismael Aragón Cruz	LOS ENTABLILLAOS	02:33:57	06:41.05	2º-TRAIL PRO Masculino	
+48	158	Daniel Jesús Moreno Rodríguez	LOS ENTABLILLAOS	02:33:59	06:41.06	21º-TRAIL SEN Masculino	
+49	54	David Pintó Jiménez	LUNA LLENA	02:34:18	06:42.05	19º-TRAIL VET Masculino	
+50	197	Juan Francisco Zapata García	RUN FOR FUN	02:36:42	06:48.07	20º-TRAIL VET Masculino	
+51	9	Francisco Carretero Calderón		02:37:09	06:49.09	21º-TRAIL VET Masculino	
+52	16	Manuel Fernández Pérez	CUASICUARENTONES DE TORREMOLINOS	02:37:18	06:50.03	5º-TRAIL MST Masculino	
+53	29	Carlos Javier Guerrero Duarte		02:38:27	06:53.03	22º-TRAIL SEN Masculino	
+54	146	Juan Jesus Lera Lobato	SIERRA CARBONERA	02:38:41	06:53.09	22º-TRAIL VET Masculino	
+55	130	Jesús Alberto García Cano	CLUB ATLETISMO RINCÓN DE LA VICTORIA	02:39:35	06:56.02	23º-TRAIL SEN Masculino	
+56	186	Francisco José Soria Soria		02:39:35	06:56.03	24º-TRAIL SEN Masculino	
+57	102	Juan Francisco Burgos De La Rosa		02:39:36	06:56.03	25º-TRAIL SEN Masculino	
+58	121	Nicolas Escribano Leiva	C.D.FUENTE DEL ACEBUCHE	02:39:37	06:56.03	26º-TRAIL SEN Masculino	
+59	108	Francisco Jose Guerrro Castilla		02:40:24	06:58.04	27º-TRAIL SEN Masculino	
+60	168	Miguel Angel Pavón Martín	C.D. SOHAIL LA SENDA	02:41:13	07:00.05	23º-TRAIL VET Masculino	
+61	60	Daniel Rivas Martin		02:43:01	07:05.02	24º-TRAIL VET Masculino	
+62	70	Juan Carlos Ruiz Cabrera	SIERRA CARBONERAS	02:43:10	07:05.06	25º-TRAIL VET Masculino	
+63	68	Eugenio Rosado Vazquez	C.D.PAPARUNNERS	02:44:23	07:08.08	26º-TRAIL VET Masculino	
+64	187	David Soto Calvo	C.D.PAPARUNNERS	02:44:24	07:08.08	28º-TRAIL SEN Masculino	
+65	172	Eusebio Ramirez Jimenez		02:47:42	07:17.04	27º-TRAIL VET Masculino	
+66	59	Manuel A. Ríos Perez	NO SIENTO LAS PIERNAS	02:47:56	07:18.00	28º-TRAIL VET Masculino	
+67	118	Eduardo Delgado		02:47:58	07:18.01	29º-TRAIL SEN Masculino	
+68	125	Jonatan Francisco Otero	CORRO + QUE TÚ	02:49:10	07:21.02	29º-TRAIL VET Masculino	
+69	89	Dionisio Aguilera Ruiz	LA RINCONA	02:49:47	07:22.09	30º-TRAIL VET Masculino	
+70	94	Bernardo Aranda Salas		02:50:25	07:24.05	30º-TRAIL SEN Masculino	
+71	144	Mohamed Laghmich Hadad	SIERRA BERMEJA TRAIL	02:50:26	07:24.05	31º-TRAIL SEN Masculino	
+72	175	David Rodriguez Delgado	PULSO TRAILRUNING	02:50:27	07:24.06	31º-TRAIL VET Masculino	
+73	157	Eulogio Moreno Genal	C.M.I.EL COÑO MI PRIMA	02:50:43	07:25.03	32º-TRAIL VET Masculino	
+74	170	Rafael Perez Casas	C.D. CERRO JONETE	02:51:20	07:26.09	32º-TRAIL SEN Masculino	
+75	147	Fernando Lopez Anaya		02:51:43	07:27.09	33º-TRAIL VET Masculino	
+76	53	Juan José Zea Aragon	FUENTE DEL ACEBUCHE	02:51:44	07:27.09	34º-TRAIL VET Masculino	
+77	163	Rafael Oliva	TOTEN-PRO	02:53:22	07:32.02	35º-TRAIL VET Masculino	
+78	72	Christian Samuelsson	ERTHEO	02:53:36	07:32.08	36º-TRAIL VET Masculino	
+79	67	José Manuel Romero Lazo	CEM	02:53:56	07:33.07	6º-TRAIL MST Masculino	
+80	127	Chemy Gálvez Coronado	CD ALPINO JARAPALOS	02:55:37	07:38.01	37º-TRAIL VET Masculino	
+81	180	Diego Jesus Sanchez Moriano	CEM SIERRA BLANCA	02:56:06	07:39.03	33º-TRAIL SEN Masculino	
+82	13	Ignacio Doña Ruiz		02:56:32	07:40.05	34º-TRAIL SEN Masculino	
+83	43	Eduardo Mateos González		02:59:47	07:48.09	35º-TRAIL SEN Masculino	
+84	36	Eugenio Lopez Sancchez		02:59:48	07:49.00	38º-TRAIL VET Masculino	
+85	183	Pedro Luis Santos Gomez		03:00:13	07:50.01	36º-TRAIL SEN Masculino	
+86	139	Daniel Herrera Calle		03:00:35	07:51.00	39º-TRAIL VET Masculino	
+87	56	Miguel Angel Quiles Pardo	CLUB ESCALADA MARBELLA	03:05:11	08:03.00	7º-TRAIL MST Masculino	
+88	194	Dani Vallejo Herrmann	TRI MARBELLA GLOBER	03:05:18	08:03.03	8º-TRAIL MST Masculino	
+89	58	Antonio Ramírez González		03:05:30	08:03.08	40º-TRAIL VET Masculino	
+90	132	Alejandro Gavilán Ponce	CLUB RUNNING ALCALÁ DEL VALLE	03:06:23	08:06.01	37º-TRAIL SEN Masculino	
+91	136	Jacinto Guillen Franco	FAROBIKES	03:08:00	08:10.04	41º-TRAIL VET Masculino	
+92	120	Javier Domínguez Arjona		03:08:10	08:10.08	38º-TRAIL SEN Masculino	
+93	42	José Manuel Martinez Miranda	CA LINCE BONARES	03:09:52	08:15.02	39º-TRAIL SEN Masculino	
+94	87	Jose Alberto Acevedo Garcia		03:10:55	08:18.00	40º-TRAIL SEN Masculino	
+95	46	Jose Manuel Moreno Moreno	CLUB ESCALADA MARBELLA	03:12:18	08:21.06	9º-TRAIL MST Masculino	
+96	296	Gabriel Lopez Rubio	ASCARI-HARMAN TRAIL RUNNING	03:12:21	08:21.07	42º-TRAIL VET Masculino	
+97	174	Cristobal Reina		03:13:00	08:23.04	10º-TRAIL MST Masculino	
+98	2	David Alonso Russi	TRAYA TEAM	03:13:01	08:23.05	43º-TRAIL VET Masculino	
+99	1	Juan Andrés Aguilar Rocha		03:13:07	08:23.07	44º-TRAIL VET Masculino	
+100	39	Francisco Javier Macías Rodríguez		03:13:08	08:23.08	45º-TRAIL VET Masculino	
+101	48	John Nordmann Nordmann		03:13:20	08:24.03	46º-TRAIL VET Masculino	
+102	22	Juan Amador Garcia Navarro	LAS DELICIAS RUNNERS	03:13:47	08:25.05	47º-TRAIL VET Masculino	
+103	100	Wouter Brons	CLUB ESCALADA MARBELLA	03:15:37	08:30.02	48º-TRAIL VET Masculino	
+104	150	Daniel Madrid Garcia	CLUB ESCALADA MARBELLA	03:15:37	08:30.02	49º-TRAIL VET Masculino	
+105	8	Juan Alberto Caravaca López		03:17:28	08:35.01	50º-TRAIL VET Masculino	
+106	110	José Manuel Castillo		03:18:00	08:36.05	51º-TRAIL VET Masculino	
+107	25	Juan Francisco García Garcia	SIERRA BERMEJA TRAIL	03:19:23	08:40.00	52º-TRAIL VET Masculino	
+108	63	Manuel Rodriguez Delgado		03:20:37	08:43.03	11º-TRAIL MST Masculino	
+109	85	Fran Viegas García	ULTRA TRAIL SIERRA BLANCA	03:24:21	08:53.00	53º-TRAIL VET Masculino	
+110	83	Juan Manuel Vazquez Mata	LUNA LLENA	03:24:33	08:53.05	12º-TRAIL MST Masculino	
+111	73	Francisco Sanchez Diaz	C.D. FUENTE DEL ACEBUCHE	03:24:58	08:54.06	13º-TRAIL MST Masculino	
+112	195	Jose Velázquez Alvarez	UNIVERSO SEVILLA	03:26:16	08:58.00	14º-TRAIL MST Masculino	
+113	196	Florentino Vera Martin	CAPICHI TEAM	03:26:16	08:58.00	54º-TRAIL VET Masculino	
+114	111	Rafael Cobacho Carbonero	TREPAMUNDO	03:26:16	08:58.00	41º-TRAIL SEN Masculino	
+115	103	José Luis Cabas Alvarez		03:26:50	08:59.05	15º-TRAIL MST Masculino	
+116	77	Joaquin Serratosa Gutiérrez	TRAIL RUNNING ARRIATE	03:27:33	09:01.04	16º-TRAIL MST Masculino	
+117	5	Ignacio Bravo Gallardo	MATATRAIL	03:28:10	09:03.00	55º-TRAIL VET Masculino	
+118	14	Jose Escarcena Ruiz		03:29:35	09:06.07	17º-TRAIL MST Masculino	
+119	81	Miguel Valle Piqueras	A.D.JUBRIQUE	03:32:11	09:13.04	56º-TRAIL VET Masculino	
+120	71	Jose Manuel Ruiz Muñiz	A.D.JUBRIQUE	03:32:39	09:14.07	57º-TRAIL VET Masculino	
+121	193	Alvaro Vallejo Andrades	A.D.JUBRIQUE	03:33:09	09:16.00	42º-TRAIL SEN Masculino	
+122	55	Juan Prieto Luna	CD LUNA LLENA	03:33:18	09:16.04	18º-TRAIL MST Masculino	
+123	104	Antonio Cabezas Gomez	CARTAMA TRAIL	03:33:53	09:17.09	43º-TRAIL SEN Masculino	
+124	52	Hernan Perez Cardiello	CLUB ALPINO MARBELLA	03:35:30	09:22.01	19º-TRAIL MST Masculino	
+125	66	Antonio Jesus Román Moreno		03:36:55	09:25.08	44º-TRAIL SEN Masculino	
+126	173	Gholamreza Razzaghof		03:39:50	09:33.04	20º-TRAIL MST Masculino	
+127	76	Jose Sánchez Morales		03:40:15	09:34.05	58º-TRAIL VET Masculino	
+128	145	Markku Lehikoinen	ALPINO BENALMÁDENA ALSSPORT	03:41:23	09:37.05	21º-TRAIL MST Masculino	
+129	119	Iñaki Díez Rodríguez		03:41:30	09:37.08	45º-TRAIL SEN Masculino	
+130	47	Tomas Nieto		03:41:31	09:37.08	46º-TRAIL SEN Masculino	
+131	38	Mauricio Losa Zambrana	CD LUNA LLENA	03:42:25	09:40.01	59º-TRAIL VET Masculino	
+132	198	Rafael Benitez Roldan	LUNA LLENA	03:42:45	09:41.00	22º-TRAIL MST Masculino	
+133	503	Francisco José Castilla Castilla		03:43:59	09:44.02	47º-TRAIL SEN Masculino	
+134	65	Antonio Jose Román		03:45:52	09:49.01	60º-TRAIL VET Masculino	
+135	34	Javier Lares Coronil		03:45:54	09:49.02	48º-TRAIL SEN Masculino	
+136	148	Manolo Lopez Espada	LIBERTAD	03:51:08	10:02.09	23º-TRAIL MST Masculino	
+137	30	Juanito Guzmán		03:51:08	10:02.09	61º-TRAIL VET Masculino	
+138	26	Juan Andres Gomez Duarte	MTB 29SEIS70	03:54:56	10:12.08	62º-TRAIL VET Masculino	
+139	79	Placido Suarez Torres		03:54:57	10:12.08	63º-TRAIL VET Masculino	
+140	44	Jose Manuel Moreno Caro		04:00:03	10:26.02	24º-TRAIL MST Masculino	
+141	57	Ruben Ramirez Mata		04:00:58	10:28.05	64º-TRAIL VET Masculino	
+142	33	Fernando Jimenez Jimenez		04:18:33	11:14.04	65º-TRAIL VET Masculino	
+143	162	Juan Ocaña Molina	ASCARI-HARMAN TRAIL RUNNING	04:26:08	11:34.02	49º-TRAIL SEN Masculino	
+144	80	Lucas Jesus Torres Lopez		04:29:24	11:42.07	66º-TRAIL VET Masculino	
+1	159	Diana Muñoz Merino	CLUB ATLETISMO LINENSE	02:38:46	06:54.01	1º-TRAIL ABS Femenino	
+2	155	Maria Michelson		02:41:15	07:00.06	2º-TRAIL ABS Femenino	
+3	126	Maria Galvez Romero		02:45:44	07:12.03	3º-TRAIL ABS Femenino	
+4	182	Ana Sánchez Perea	RUNNING FEMENINO	03:00:48	07:51.06	1º-TRAIL VET Femenino	
+5	178	Gabriela Salazar Chugchilan		03:04:17	08:00.07	1º-TRAIL SEN Femenino	
+6	143	Rita Kollo	FALSO LLANO	03:04:53	08:02.03	2º-TRAIL VET Femenino	
+7	15	Maria Del Rocio Fernandez Infantes	TRAYA TEAM	03:13:01	08:23.05	3º-TRAIL VET Femenino	
+8	75	Magdalena Sánchez Molares		03:17:29	08:35.01	4º-TRAIL VET Femenino	
+9	78	Milagrosa Siles Arenas		03:24:55	08:54.05	1º-TRAIL MST Femenino	
+10	49	Fátima Obladen Marcos	TRAIL RUNNING ARRÍATE	03:27:01	09:00.00	2º-TRAIL MST Femenino	
+11	35	Lola Lebron Castellano	PEÑA TRAIL- TIERRA DE MAESTROS	03:28:14	09:03.01	5º-TRAIL VET Femenino	
+12	140	Esther Jimenez Lopez	CEM	03:45:10	09:47.03	6º-TRAIL VET Femenino	
+13	6	Nadine Buhlmannn	A.D.JUBRIQUE	03:47:45	09:54.01	7º-TRAIL VET Femenino	
+14	74	Sonia Sánchez Mesa	C.D. LUNA LLENA	03:52:03	10:05.03	8º-TRAIL VET Femenino	
+15	62	Marina Robertson	ULTRA TRAIL SIERRA BLANCA	03:52:45	10:07.01	9º-TRAIL VET Femenino	
+16	28	Esperanza González Pazos		04:01:33	10:30.01	10º-TRAIL VET Femenino	
+17	151	Concha Manzano Manzano		04:10:15	10:52.07	11º-TRAIL VET Femenino	
+18	51	Yolanda Peña Garcia		04:18:37	11:14.06	12º-TRAIL VET Femenino	
+19	92	Ana Maria Aragon Tapia		04:18:38	11:14.06	3º-TRAIL MST Femenino	
+20	135	Maria Olga Guerrero Pérez		04:18:40	11:14.07	13º-TRAIL VET Femenino	
+21	199	Isabel Maria Garcia Ruiz	NO SIENTO LAS PIERNAS	04:18:48	11:15.00	14º-TRAIL VET Femenino	
+22	161	Patricia Ocaña Molina		04:26:08	11:34.02	15º-TRAIL VET Femenino	

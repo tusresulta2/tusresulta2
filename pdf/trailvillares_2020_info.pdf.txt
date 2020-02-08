@@ -1,0 +1,49 @@
+X-Trail Villares Pancetita Mirfak Sports 2020
+#FECHA:Domingo 19/04/20
+#LUGAR: Camping de Los Villares (Córdoba)
+#INSCRIPCIONES: cronosur.es y tienda AristaRun (Córdoba) hasta
+#PRECIO: XL-24.8Km (20€ Federados y 25€ No federados)   M-15.7Km (16€ Federados y 21€ No Federados)    XS 2.2Km (8€ Federados y 13€ No Federados) y  Corre con tu hij@ (12€ Federados +3€ si no está federad@ padre/madre o hij@) 50% Descuento personas con discapacidad
+
+#CARRERAS:
+
+$$ICON_HORAHora:9:00h ICON_DISTANCIADistancia XL 24.8Km 1299+/1299- Max 4h
+ICON_CATEGORIAAbsoluta (21 años en adelante)
+ICON_CATEGORIAPromesa (21-23 años)
+ICON_CATEGORIASenior (24-39 años)
+ICON_CATEGORIAVeteran@ A(40-49 años)
+ICON_CATEGORIAVeteran@ B (50-59 años)
+ICON_CATEGORIAVeteran@ C (60 años en adelante)
+
+$$ICON_HORAHora:9:15h ICON_DISTANCIADistancia M 15.7Km 703+/703- Max 3h
+ICON_CATEGORIACadete (15-16 años)
+ICON_CATEGORIAJuvenil (17-18 años)
+ICON_CATEGORIAJunior (19-20 años)
+ICON_CATEGORIAAbsoluta (21 años en adelante)
+ICON_CATEGORIAPromesa (21-23 años)
+ICON_CATEGORIASenior (24-39 años)
+ICON_CATEGORIAVeteran@ A(40-49 años)
+ICON_CATEGORIAVeteran@ B (50-59 años)
+ICON_CATEGORIAVeteran@ C (60 años en adelante)
+
+$$ICON_HORAHora:12:30h ICON_DISTANCIADistancia XS 2.2Km 62+/62-
+ICON_CATEGORIAPrebenjamin (6-8 años)
+ICON_CATEGORIABenjamin (9-10 años)
+ICON_CATEGORIAAlevin (11-12 años)
+ICON_CATEGORIAInfantil (13-14 años)
+ICON_CATEGORIACorre con tu Hij@
+
+#PREMIOS:
+*** NO ACUMULABLES ***
+
+Modalidad XL
+1 Modalidad XL Trofeo + 100€ cheque regalo en AristaRun
+2 y 3 Modalidad XL Trofeo + mochila de hidratación
+
+Todas las Modalidades
+3 primer@s de cada categoría
+Medalla FINISHER
+
+#MAS:
+
+RESULTADOS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

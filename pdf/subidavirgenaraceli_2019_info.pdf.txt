@@ -1,0 +1,41 @@
+III Carrera Subida al Santuario de María Santísima de Araceli
+#FECHA:Domingo 6/10/19
+#LUGAR: Salida Plaza Nueva de Lucena (Córdoba) // Meta Santuario de la Virgen de Araceli
+#INSCRIPCIONES: www.virgendearaceli.net
+#PRECIO: 10€ 
+
+#CARRERAS:
+$$ICON_HORAHora:10:00h ICON_DISTANCIADistancia 7Km
+ICON_CATEGORIASenderistas (No Competitivo) (2001 y anteriores)
+
+
+$$ICON_HORAHora:10:30h ICON_DISTANCIADistancia 10Km
+ICON_CATEGORIAVeterano C (1964 y anteriores)
+ICON_CATEGORIAVeterano B (1965-1971)
+ICON_CATEGORIAVeterano A (1972-1981)
+ICON_CATEGORIASenior (1982-1995)
+ICON_CATEGORIAJunior (1996-1999)
+ICON_CATEGORIAJuvenil (2000-2001)
+ICON_CATEGORIADiscapacitad@s (2001 y anteriores)
+
+#PREMIOS:
+*** NO ACUMULATIVOS ***
+3 primer@s de cada categoría
+
+TROFEOS PRUEBA REINA
+Premios en metálico del 1º al 5º (170€, 110€, 60€, 40€, 20€)
+6º y 7º Cesta de productos típicos de la tierra para 
+
+META VOLANTE
+Primer@ M y F 1 Jamón
+Primer@ M y F (LOCALES) Circuito Hidrotermal-Spa (Vaho Spa)
+
+#MAS:
+Los dorsales se recogerán el día de la prueba, a partir de las 9:00 hrs. en la Plaza Nueva para los atletas que sean de fuera de Lucena, y para participantes de Lucena obligatoriamente se entregará el sábado 05 de octubre de 12:00  a 14:00 hrs. y de 19h a 21h en la Casa Museo de la Virgen de Araceli.
+
+Está a disposición del atleta un guardarropa en la salida, para que el atleta pueda cambiarse en meta.
+
+Todo deportista obtendrá una bolsa del corredor, con camiseta y productos alimenticios para recuperar fuerzas tras la carrera.
+
+RESULTADOS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

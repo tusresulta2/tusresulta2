@@ -1,0 +1,169 @@
+1	535	Mauris Surel Castillo Yera	C.A. MAURI CASTILLO	00:25:39	03:12.03	1º-GENERAL Masculino	Diploma
+2	505	Ruben Alvarez Miguel		00:25:53	03:14.00	2º-GENERAL Masculino	Diploma
+3	563	Javier Eire		00:27:13	03:24.01	3º-GENERAL Masculino	Diploma
+4	531	Juan Javier Carrasco Martín	CAMAGC ATLETISMO	00:27:16	03:24.04	1º-VETERANO A Masculino	Diploma
+5	726	Jose Antonio Garcia		00:27:36	03:26.09	1º-SENIOR Masculino	Diploma
+6	527	Andres Campos Guerrero		00:28:57	03:37.00	2º-SENIOR Masculino	Diploma
+7	571	Francisco Javier Gomez Fernandez	MOÑIGA POWER	00:29:16	03:39.04	3º-SENIOR Masculino	Diploma
+8	706	Daniel Sobrino Nieto	ATLETISMO ORIPPO	00:30:16	03:46.09	2º-VETERANO A Masculino	Diploma
+9	570	Juan Pablo Gomez Martin	ENTRENA Y MEJORA	00:30:23	03:47.07	3º-VETERANO A Masculino	Diploma
+10	595	Mamen Ledesma Ruiz	ENTRENA Y MEJORA	00:30:25	03:48.00	1º-GENERAL Femenino	Diploma
+11	656	Francisco Javier Pedregal Rodríguez	OHMIO	00:30:57	03:52.00	4º-SENIOR Masculino	Diploma
+12	565	Pedro García García	CLU ATL MONROY	00:30:58	03:52.01	1º-VETERANO B Masculino	Diploma
+13	718	Marcos Yanez Romero	VIDAON	00:31:01	03:52.05	2º-VETERANO B Masculino	Diploma
+14	583	Carmen Gutiérrez Peña	CA BETTA	00:31:11	03:53.07	2º-GENERAL Femenino	Diploma
+15	567	Luis Miguel García Zarza		00:31:13	03:54.00	5º-SENIOR Masculino	Diploma
+16	705	Carlos Sobrino Nieto	ATLETISMO ORIPPO	00:31:26	03:55.07	4º-VETERANO A Masculino	Diploma
+17	519	Maria Belmonte Martinez	RUNNERS PURA CEPA	00:32:07	04:00.07	3º-GENERAL Femenino	Diploma
+18	643	Jose Javier Olid Montero		00:32:20	04:02.04	6º-SENIOR Masculino	Diploma
+19	672	Alvaro Reyes Dorado	CAPA	00:32:39	04:04.08	1º-JUVENIL Masculino	Diploma
+20	699	Maria Jose Redaño Prieto	ORIPPO	00:32:48	04:05.08	1º-SENIOR Femenino	Diploma
+21	734	David Sanchez		00:33:03	04:07.08	3º-VETERANO B Masculino	Diploma
+22	547	Ismael Diañez Medina	CD HISPATRAIL	00:33:22	04:10.02	4º-VETERANO B Masculino	Diploma
+23	602	Francisco Jose Lopez Ruiz		00:33:25	04:10.06	5º-VETERANO A Masculino	Diploma
+24	588	Norberto Iniguez Ortiz	ORIPPO	00:33:56	04:14.04	6º-VETERANO A Masculino	Diploma
+25	709	David Toro Martínez	CAPA	00:34:00	04:14.09	7º-VETERANO A Masculino	Diploma
+26	733	Victor Sanchez		00:34:16	04:16.09	8º-VETERANO A Masculino	Diploma
+27	738	Pablo G. Bermudo		00:34:20	04:17.04	9º-VETERANO A Masculino	Diploma
+28	678	Carmen Rodriguez Gonzalez	ATLETISMO ORIPPO	00:34:25	04:18.00	1º-VETERANO B Femenino	Diploma
+29	549	Juan Antonio Diaz Terrero	ATLETISMO ORIPPO	00:34:28	04:18.04	10º-VETERANO A Masculino	Diploma
+30	517	Antonio Barco Perez	C.A CORIA	00:34:32	04:18.09	7º-SENIOR Masculino	Diploma
+31	553	Javier Eire Gutiérrez	C.A. GERENA	00:34:34	04:19.01	11º-VETERANO A Masculino	Diploma
+32	700	Cintia Sánchez Gómez	CLUB ATLETISMO ORIPPO	00:34:36	04:19.04	2º-SENIOR Femenino	Diploma
+33	657	David Pereira Clamajirand		00:34:50	04:21.02	12º-VETERANO A Masculino	Diploma
+34	606	Maria Jose López Barrio		00:34:52	04:21.04	3º-SENIOR Femenino	Diploma
+35	508	Francisco Javier Álvarez Gandul		00:34:58	04:22.01	13º-VETERANO A Masculino	Diploma
+36	509	Manuel Ángel Mariscal	CLUB ATLETISMO LOS LENTOS	00:35:00	04:22.04	5º-VETERANO B Masculino	Diploma
+37	735	Carlos Romero		00:35:02	04:22.07	14º-VETERANO A Masculino	Diploma
+38	680	Jordi Rodriguez Moreno		00:35:04	04:23.00	6º-VETERANO B Masculino	Diploma
+39	532	David Carrion Cortes	RTTL	00:35:07	04:23.03	7º-VETERANO B Masculino	Diploma
+40	648	Juan Antonio Pacheco Tabernero		00:35:09	04:23.05	8º-VETERANO B Masculino	Diploma
+41	646	Antonio Ortega Valle	ORIPPO	00:35:42	04:27.06	15º-VETERANO A Masculino	Diploma
+42	665	Miguel Ángel Puch Garduño		00:36:06	04:30.06	8º-SENIOR Masculino	Diploma
+43	540	Angel Cordero Del Pozo	LOS BELLOS Y LA BESTIA	00:36:08	04:30.09	9º-VETERANO B Masculino	Diploma
+44	528	Nuria Cañas Moreno	ATLETISMO ORIPPO	00:36:23	04:32.08	1º-VETERANO A Femenino	Diploma
+45	546	Pablo Delgado Dominguez		00:36:28	04:33.04	9º-SENIOR Masculino	Diploma
+46	631	Benjamín Monge Brenes		00:36:30	04:33.07	10º-SENIOR Masculino	Diploma
+47	690	Ana Rubio Vázquez	C.D.ATLETISMO MONROY	00:36:32	04:34.00	2º-VETERANO A Femenino	Diploma
+48	589	Salvador Jimenez Garcia		00:36:46	04:35.07	16º-VETERANO A Masculino	Diploma
+49	675	Miguel Rios Farfan		00:37:00	04:37.04	11º-SENIOR Masculino	Diploma
+50	580	Rocío Goñi Medina	LIFE RUNNING	00:37:07	04:38.03	1º-JUNIOR Femenino	Diploma
+51	1000	Alejandro Moya Duran		00:37:23	04:40.03	17º-VETERANO A Masculino	Diploma
+52	607	Víctor Lozano Romero		00:37:24	04:40.04	18º-VETERANO A Masculino	Diploma
+53	530	Juan Maria Carrasco Carrasco	OHMKO	00:37:28	04:40.09	1º-VETERANO C Masculino	Diploma
+54	687	David Romero Esteban	RUNNERSDELCERRO	00:37:39	04:42.03	19º-VETERANO A Masculino	Diploma
+55	556	Francisco Expósito Amado		00:37:46	04:43.01	10º-VETERANO B Masculino	Diploma
+56	621	Pedro Mena Guerrero		00:37:53	04:44.00	20º-VETERANO A Masculino	Diploma
+57	524	Fernando Cabeza Román	CAPA	00:38:18	04:47.02	21º-VETERANO A Masculino	Diploma
+58	526	Juan Manuel Calderón Olivencia	CAPA	00:38:20	04:47.04	22º-VETERANO A Masculino	Diploma
+59	703	Germán Serrallé Pereira	THE TOTAL TRAINING	00:38:30	04:48.06	23º-VETERANO A Masculino	Diploma
+60	520	Fernando Benitez Rangel		00:38:32	04:48.09	24º-VETERANO A Masculino	Diploma
+61	671	Emilio Reyes Romero	CAPA	00:38:35	04:49.03	25º-VETERANO A Masculino	Diploma
+62	604	David Lopez Cala	ATLETISMO ORIPPO	00:38:38	04:49.06	2º-JUVENIL Masculino	Diploma
+63	647	Jose Manuel Ortega Moncayo	C.A. ORIPPO	00:38:41	04:50.00	12º-SENIOR Masculino	Diploma
+64	510	Francisco Javier Aranda Ruiz	LOS BELLOS Y LA BESTIA	00:38:45	04:50.06	11º-VETERANO B Masculino	Diploma
+65	639	Adrián Mulero Orozco		00:38:55	04:51.07	3º-JUVENIL Masculino	Diploma
+66	732	Julio Amarillo		00:39:00	04:52.04	2º-VETERANO C Masculino	Diploma
+67	543	Francisco Cuadrado Garcia	LIFE RUNNING	00:39:02	04:52.07	12º-VETERANO B Masculino	Diploma
+68	575	Jose Antonio Gonzalez Reyes		00:39:16	04:54.04	13º-VETERANO B Masculino	Diploma
+69	696	Alvaro Sanchez Salas	CD LOS JARTIBLES	00:39:42	04:57.06	14º-VETERANO B Masculino	Diploma
+70	596	Eliseo Leon Montero	CD LOS JARTIBLES	00:39:44	04:57.09	15º-VETERANO B Masculino	Diploma
+71	568	José Gil Romero		00:40:01	05:00.01	3º-VETERANO C Masculino	Diploma
+72	712	José Manuel Vargas Castillo	CAPA	00:40:04	05:00.05	26º-VETERANO A Masculino	Diploma
+73	516	Blanca Barbero Rivas	THE TOTAL TRAINING	00:40:08	05:00.09	4º-SENIOR Femenino	Diploma
+74	651	Miguel Paez Caño		00:40:15	05:01.08	4º-VETERANO C Masculino	Diploma
+75	603	Ivan Lopez Aragon	C D LOS JARTIBLES	00:40:22	05:02.07	27º-VETERANO A Masculino	Diploma
+76	704	Jorge Serrano Sacristan	CD LOS JARTIBLES	00:40:23	05:02.07	28º-VETERANO A Masculino	Diploma
+77	569	Jaime Gomez Sanchez	CD LOS JARTIBLES	00:40:32	05:03.09	29º-VETERANO A Masculino	Diploma
+78	581	Jonathan Gordillo Pliego	CD LOS JARTIBLES	00:40:34	05:04.01	30º-VETERANO A Masculino	Diploma
+79	663	Gustavo Luis Pineda Romero	CAPA	00:40:37	05:04.05	16º-VETERANO B Masculino	Diploma
+80	716	Marcos Villa Vallejo		00:40:37	05:04.05	13º-SENIOR Masculino	Diploma
+81	674	Jesus Rincon Rincon	LOS LEGENDARIOS	00:40:37	05:04.06	17º-VETERANO B Masculino	Diploma
+82	537	Jose Chamorro Cejudo	ATLETISMO ORIPPO	00:40:46	05:05.06	18º-VETERANO B Masculino	Diploma
+83	538	Maria Del Mar Claro Campon	ATLETISMO ORIPPO	00:40:50	05:06.02	2º-VETERANO B Femenino	Diploma
+84	601	Esperanza Lopez Moya	ATLETISMO ORIPPO	00:40:55	05:06.07	3º-VETERANO A Femenino	Diploma
+85	654	Andrea Parrilla Portillo	CLUB ATLETISMO ORIPPO	00:40:56	05:06.09	1º-JUVENIL Femenino	Diploma
+86	632	Germán Monterrubio Fernández	THE MIDNIGHT PREDATORS	00:40:57	05:07.00	31º-VETERANO A Masculino	Diploma
+87	562	Jesus Garcia Chamizo	LOS LEGENDARIOS	00:41:07	05:08.03	19º-VETERANO B Masculino	Diploma
+88	688	Carlos Romero Díaz-argüelles	CAPA	00:41:09	05:08.06	32º-VETERANO A Masculino	Diploma
+89	682	Ricardo Rojas		00:41:11	05:08.08	20º-VETERANO B Masculino	Diploma
+90	713	Luis Miguel Vazquez Cabrera	CD LOS JARTIBLES	00:41:15	05:09.03	5º-VETERANO C Masculino	Diploma
+91	670	Rafael Regalado Calderón		00:41:18	05:09.07	21º-VETERANO B Masculino	Diploma
+92	623	Juan Carlos Mera Salas	CD LOS JARTIBLES	00:41:25	05:10.06	22º-VETERANO B Masculino	Diploma
+93	502	Juan Manuel Acedo Del Olmo Lagos		00:41:30	05:11.01	33º-VETERANO A Masculino	Diploma
+94	649	Pedro Pacheco Alonso	CLUB NERJA DE ATLETISMO	00:41:32	05:11.04	4º-JUVENIL Masculino	Diploma
+95	681	Jose Antonio Rodriguez Conde	CD LOS JARTIBLES	00:41:32	05:11.04	34º-VETERANO A Masculino	Diploma
+96	597	Alfredo Linero Molinillo	CD LOS JARTIBLES	00:41:46	05:13.01	35º-VETERANO A Masculino	Diploma
+97	611	Alberto Marín Padial		00:42:02	05:15.02	23º-VETERANO B Masculino	Diploma
+98	691	Marta Rubio Ordoñez	EMOTION RUNNING CLUB	00:42:12	05:16.04	5º-SENIOR Femenino	Diploma
+99	667	Fernando Quintano Hinojosa		00:42:25	05:18.00	5º-JUVENIL Masculino	Diploma
+100	629	Alejandro Millán Hinojosa		00:42:26	05:18.01	14º-SENIOR Masculino	Diploma
+101	518	Jessica Barrera Martínez	CAPA	00:42:36	05:19.03	6º-SENIOR Femenino	Diploma
+102	609	Carlos Macho Pascual	CAPA	00:42:37	05:19.05	15º-SENIOR Masculino	Diploma
+103	521	Rafael Blasco Sedeño		00:42:53	05:21.06	36º-VETERANO A Masculino	Diploma
+104	550	Juan Carlos Diaz Muñoz		00:43:13	05:24.00	37º-VETERANO A Masculino	Diploma
+105	587	Carmelo Herrera Gavira	CD LOS JARTIBLES	00:43:15	05:24.03	24º-VETERANO B Masculino	Diploma
+106	689	Miguel Ángel Rubio Lopez		00:43:21	05:25.00	25º-VETERANO B Masculino	Diploma
+107	616	Luis Martinez Sanchez		00:43:25	05:25.06	26º-VETERANO B Masculino	Diploma
+108	559	José Manuel Freyta Barbero		00:43:25	05:25.06	27º-VETERANO B Masculino	Diploma
+109	541	Antonio Crespillo Bayo	CD LOS JARTIBLES	00:43:50	05:28.06	6º-VETERANO C Masculino	Diploma
+110	579	Francisco Javier Goñi Villegas	LIFE RUNNING	00:44:01	05:30.00	28º-VETERANO B Masculino	Diploma
+111	615	Aida Martín Robledo	orippo	00:44:05	05:30.05	7º-SENIOR Femenino	Diploma
+112	554	Marisa Escalona Reina	ATLETISMO ORIPPO	00:44:07	05:30.07	3º-VETERANO B Femenino	Diploma
+113	736	Daniel Vela		00:44:33	05:34.00	38º-VETERANO A Masculino	Diploma
+114	679	Alicia Rodriguez Rebollo	CD LOS JARTIBLES	00:44:51	05:36.03	4º-VETERANO B Femenino	Diploma
+115	637	Felix Moya Dominguez	CD LOS JARTIBLES	00:44:54	05:36.07	39º-VETERANO A Masculino	Diploma
+116	560	May Galindo Salazar	THE TOTAL TRAINING	00:45:10	05:38.07	4º-VETERANO A Femenino	Diploma
+117	693	Jónatan Ruiz Domínguez		00:45:25	05:40.05	16º-SENIOR Masculino	Diploma
+118	548	Verónica Diaz Morales		00:45:30	05:41.02	5º-VETERANO A Femenino	Diploma
+119	600	Luis Lopez Oriol	CAIRS	00:45:32	05:41.04	29º-VETERANO B Masculino	Diploma
+120	561	Álvaro Gándara Sánchez	CCRD FERROVIARIO	00:45:38	05:42.01	40º-VETERANO A Masculino	Diploma
+121	545	Filipa Maria De Abreu Serro		00:45:40	05:42.04	8º-SENIOR Femenino	Diploma
+122	653	Roberto Carlos Parodi Montero	CD LOS JARTIBLES	00:45:43	05:42.08	41º-VETERANO A Masculino	Diploma
+123	721	Antonio Gutierrez		00:45:47	05:43.03	30º-VETERANO B Masculino	Diploma
+124	720	Raul Gutierrez		00:45:49	05:43.05	42º-VETERANO A Masculino	Diploma
+125	683	Maria Angeles Roman Perez	ATLETISMO ORIPPO	00:45:52	05:43.09	5º-VETERANO B Femenino	Diploma
+126	684	Juan Miguel Román Rivero		00:46:28	05:48.04	7º-VETERANO C Masculino	Diploma
+127	566	Juan Fco García Cabello		00:46:34	05:49.01	17º-SENIOR Masculino	Diploma
+128	628	Jose Manuel Millan Perez		00:46:53	05:51.06	18º-SENIOR Masculino	Diploma
+129	694	Jesus Ruiz Orozco		00:46:53	05:51.06	19º-SENIOR Masculino	Diploma
+130	717	Manuel Vinceiro Cru	C.D. LOS JARTIBLES	00:47:03	05:52.08	31º-VETERANO B Masculino	Diploma
+131	552	Juan Jose Dorado Ramirez	ATLETISMO ORIPPO	00:47:08	05:53.03	8º-VETERANO C Masculino	Diploma
+132	708	Mario Suárez Galvín		00:47:10	05:53.06	32º-VETERANO B Masculino	Diploma
+133	591	Julio Jiménez Melgarejo		00:47:20	05:55.00	20º-SENIOR Masculino	Diploma
+134	686	Diego Romero Varo		00:47:25	05:55.05	43º-VETERANO A Masculino	Diploma
+135	514	Miguel Arsuaga	AMATE RUNNERS	00:47:56	05:59.03	44º-VETERANO A Masculino	Diploma
+136	711	Andrés Trujillo Escalera	AMATE RUNNERS	00:47:56	05:59.04	21º-SENIOR Masculino	Diploma
+137	661	David Pérez Vidal		00:48:36	06:04.04	45º-VETERANO A Masculino	Diploma
+138	719	Claudia Zaragoza Toledo		00:48:40	06:04.09	9º-SENIOR Femenino	Diploma
+139	655	Antonio Pastor Peralta		00:48:42	06:05.02	9º-VETERANO C Masculino	Diploma
+140	557	Daniel Ieronzi Vargas	CD LOS JARTIBLES	00:49:00	06:07.04	33º-VETERANO B Masculino	Diploma
+141	692	Ruben Ruiz Bautista		00:49:11	06:08.08	22º-SENIOR Masculino	Diploma
+142	608	Silvia Luna Romano	C.A. ORIPPO	00:49:17	06:09.05	6º-VETERANO A Femenino	Diploma
+143	645	Julio Ortega Moncayo	C.A. ORIPPO	00:49:17	06:09.05	34º-VETERANO B Masculino	Diploma
+144	634	Juan Miguel Morales Montoya	CD LOS JARTIBLES	00:49:40	06:12.04	46º-VETERANO A Masculino	Diploma
+145	624	Jose Ignacio Mera Salas	CD LOS JARTIBLES	00:49:40	06:12.04	35º-VETERANO B Masculino	Diploma
+146	710	Rosa Mª Toscano Valero		00:50:18	06:17.02	10º-SENIOR Femenino	Diploma
+147	635	Luis Moreno Molino	ATLETISMO ORIPPO	00:50:27	06:18.03	36º-VETERANO B Masculino	Diploma
+148	636	Ana Moreno Ruiz	ATLETISMO ORIPPO	00:50:28	06:18.03	2º-JUNIOR Femenino	Diploma
+149	506	Raul Alvarez Lopez	ATLETISMO ORIPPO	00:50:28	06:18.04	37º-VETERANO B Masculino	Diploma
+150	572	Isabel Gómez Garrido	CAIRS	00:50:35	06:19.02	11º-SENIOR Femenino	Diploma
+151	614	Jose Luis Martin Mendoza	CLUB ATLETISMO IBIZA RUNNERS SEVILLA	00:50:35	06:19.03	23º-SENIOR Masculino	Diploma
+152	594	Jesús Leal Nieto	C. D. LOS JARTIBLES	00:50:47	06:20.08	47º-VETERANO A Masculino	Diploma
+153	625	Sergio Merlo González		00:51:11	06:23.08	48º-VETERANO A Masculino	Diploma
+154	702	Jorge Sauce Anadón		00:51:12	06:23.09	38º-VETERANO B Masculino	Diploma
+155	666	Fco Javier Puente Puente		00:51:35	06:26.07	49º-VETERANO A Masculino	Diploma
+156	641	Jennifer Murga Fernandez		00:51:35	06:26.08	12º-SENIOR Femenino	Diploma
+157	714	Maria Isabel Vazquez Perez		00:52:06	06:30.06	7º-VETERANO A Femenino	Diploma
+158	626	Alfonso Carlos Mesa Granado		00:52:06	06:30.07	39º-VETERANO B Masculino	Diploma
+159	620	Maria Teresa Medina Delso	LIFE RUNNING	00:52:32	06:33.08	6º-VETERANO B Femenino	Diploma
+160	539	Francho Chabier Corbas Luño	ESCUELA DE TAEKWONDO KIROSPORT	00:52:47	06:35.08	40º-VETERANO B Masculino	Diploma
+161	534	Mari Luz Castillo Fernández		00:53:02	06:37.07	8º-VETERANO A Femenino	Diploma
+162	574	Juan Carlos Gonzalez Lora	CD LOS JARTIBLES	00:53:34	06:41.06	41º-VETERANO B Masculino	Diploma
+163	582	Elisabeth Guillen Buzón		00:54:31	06:48.08	9º-VETERANO A Femenino	Diploma
+164	558	Torcuato Fernández García		00:58:23	07:17.07	42º-VETERANO B Masculino	Diploma
+165	685	Maria Isabel Romero		00:58:38	07:19.06	10º-VETERANO A Femenino	Diploma
+166	578	Raquel González Navarrete		00:58:41	07:20.00	11º-VETERANO A Femenino	Diploma
+167	504	José Francisco Alcántara Bravo		00:58:42	07:20.02	43º-VETERANO B Masculino	Diploma
+168	658	Inma Perez Martinez	RTTL	00:59:44	07:27.09	7º-VETERANO B Femenino	Diploma
+169	650	Julio Padre	EUCALIPTAL	01:09:04	08:37.08	10º-VETERANO C Masculino

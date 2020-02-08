@@ -1,0 +1,30 @@
+I Nocturna de Algallarín
+#FECHA:Sábado 10/08/19
+#LUGAR:Algallarín (Córdoba) Centro del pueblo y meta en la Piscina Municipal
+#INSCRIPCIONES:online en atletismofaa.es
+#PRECIO:5€
+
+#CARRERAS:
+$$ICON_HORAHora:22:00h ICON_DISTANCIADistancia 5000m
+ICON_CATEGORIAGeneral Masculino (desde los 18 años cumplidos el día de la prueba)
+ICON_CATEGORIAGeneral Femenino (desde los 18 años cumplidos el día de la prueba)
+
+#PREMIOS:
+1º Trofeo
+2º y 3º Medalla
+
+Camiseta para tod@s l@s participantes
+
+PREMIOS EN METÁLICO
+Hay premio económico
+
+#MAS:
+RECODIGA DE DORSALES de 20h a 21h el día de la carrera.
+
+ARTÍCULOS NORMATIVA A DESTACAR:
+Art.5 La organización se reserva el derecho de anular la prueba si no se alcanza el mínimo necesario de participantes
+Art.7 Es de obligatorio el uso de frontal luminoso y el cumplimiento y respeto al medio ambiente, estando prohibido arrojar desperdicios y circular fuera del recorrido señalizado.
+Art.8 La organización dispondrá de servicios de duchas y piscina a su término.
+Art.9 La organización dispondrá durante el recorrido de avituallamiento líquido
+
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

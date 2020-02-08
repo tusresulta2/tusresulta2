@@ -1,0 +1,62 @@
+XVII Milla Popular Villa de Nueva Carteya
+#FECHA:Domingo 6/6/19
+#LUGAR:Nueva Carteya, Córdoba
+#INSCRIPCIONES: masatletismo.com hasta 29/6/19
+#PRECIO:3€ adultos hasta junior,1€ restantes
+
+#CARRERAS:
+$$ICON_HORAHora:10:00 ICON_DISTANCIA400m ICON_CATEGORIA Benjamin(2010-2011)
+$$ICON_HORAHora:10:10 ICON_DISTANCIA800m ICON_CATEGORIA Alevin(2008-2009)
+
+$$MILLAS
+ICON_DISTANCIA1609m
+ICON_HORAHora:10:20 ICON_CATEGORIA Infantil(2006-2007)
+ICON_HORAHora:10:40 ICON_CATEGORIA Cadete(2004-2005)
+ICON_HORAHora:11:00 ICON_CATEGORIA Juvenil(2002-2003)
+ICON_HORAHora:11:10 ICON_CATEGORIA Junior-Promesa(1997-2001)
+ICON_HORAHora:11:20 ICON_CATEGORIA SeniorA M(1990-1996)
+ICON_HORAHora:11:30 ICON_CATEGORIA SeniorB M(1984-1989)
+ICON_HORAHora:11:40 ICON_CATEGORIA VetA M(1978-1983)
+ICON_HORAHora:11:50 ICON_CATEGORIA VetB M(1972-1977)
+ICON_HORAHora:12:00 ICON_CATEGORIA VetC M(1967-1971)
+ICON_HORAHora:12:10 ICON_CATEGORIA VetD M(1966-ant)
+ICON_HORAHora:12:20 ICON_CATEGORIA Absolutas F(1996-ant)
+ICON_HORAHora:12:30 ICON_CATEGORIA Local F
+ICON_HORAHora:12:40 ICON_CATEGORIA Local M 
+ICON_HORAHora:12:50 ICON_CATEGORIA Elite F
+ICON_HORAHora:13:00 ICON_CATEGORIA Elite M
+
+$$Discapacitados
+ICON_HORAHora:13:15 ICON_DISTANCIA400m ICON_CATEGORIAa pie
+ICON_HORAHora:13:20 ICON_DISTANCIA1609m ICON_CATEGORIAsilla ruedas
+
+$$Peques
+ICON_HORAHora:13:30 ICON_DISTANCIA400m ICON_CATEGORIA Prebenjamin(2012-2013)
+ICON_HORAHora:13:40 ICON_DISTANCIA100m ICON_CATEGORIA Chupetes(2014-2015)
+
+#PREMIOS:
+Elite
+1º 250€ + trofeo
+2º 150€ + trofeo
+3º 90€ + trofeo
+4º 60€
+5º 50€
+6º 40€
+
+Elite Local
+1º 80€ + trofeo
+2º 60€ + trofeo
+3º 40€ + trofeo
+4º 20€
+5º 10€
+
+Categorías absolut@s
+1º 40€ + trofeo
+2º 30€ + trofeo
+3º 20€ + trofeo
+
+Categorías base y discapacitad@s
+Trofeo a l@s 3 primer@s
+
+#MAS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

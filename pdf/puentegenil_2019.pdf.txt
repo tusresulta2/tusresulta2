@@ -1,0 +1,433 @@
+|  Página principal   |  Febrero 2019  |                                                                            
+                                                                               
+XXIX MEDIO MARATÓN VILLA DE PUENTE GENIL.
+PUENTE GENIL (CÓRDOBA) - 03-02-2019.
+Distancia:  21.097 metros.
+                                CATEG                                                                     DIF 1º   DIST 1º 
+  GEN    M/F    CAT  CATEG          SEX     DE   NOMBRE                                   TIEMPO   MEDIA    KM/H    TIEMPO    METROS   CLUB 
+======================================================================================================================================================
+    1      1      1  SENIOR           M    127   NASR BOUCHAIB                           01:07:48  03:12   18,67   00:00:00        0                  
+    2      2      2  SENIOR           M    127   CASTILLO YERA MAURI SUREL               01:08:10  03:13   18,57   00:00:22      113   C.A. MAURI CAST
+    3      3      1  VETERANO A       M    147   ESPINOSA DE LOS ANGELES MIGUEL          01:08:24  03:14   18,51   00:00:36      185   C.A TROTASIERRA
+    4      4      2  VETERANO A       M    147   GARCIA ALCAIDE LAUREANO                 01:08:38  03:15   18,44   00:00:50      256   CD SURCO AVENTU
+    5      5      3  SENIOR           M    127   GOMEZ SERRANILLOS CALDERON JUSTO MANUE  01:09:33  03:17   18,20   00:01:45      531   EPA MIGUEL RIOS
+    6      6      4  SENIOR           M    127   SCOTT CRUZ RAUL                         01:11:25  03:23   17,72   00:03:37    1.068   EPA MIGUEL RIOS
+    7      7      3  VETERANO A       M    147   IBAÑEZ DE LA ROSA ANTONIO JESUS         01:11:56  03:24   17,60   00:04:08    1.212   EPA MIGUEL RIOS
+    8      8      5  SENIOR           M    127   MOLINA VALENZUELA DANIEL                01:12:06  03:25   17,56   00:04:18    1.258   ATLETISMO Y TRI
+    9      9      4  VETERANO A       M    147   HOYA BAUTISTA MANUEL                    01:12:20  03:25   17,50   00:04:32    1.322   EPA MIGUEL RIOS
+   10     10      6  SENIOR           M    127   GARCIA TORRES JOSE MARIA                01:13:37  03:29   17,19   00:05:49    1.667   EPA MIGUEL RIOS
+   11     11      7  SENIOR           M    127   ANTONETE MOISES                         01:13:37  03:29   17,19   00:05:49    1.667   EPA MIGUEL RIOS
+   12     12      8  SENIOR           M    127   JIMENEZ DEL CAÑO JOSE MARIA             01:13:42  03:29   17,18   00:05:54    1.689   CD ENTRENA@TRIJ
+   13     13      9  SENIOR           M    127   QUINTANA FUENTES RAUL                   01:14:24  03:31   17,01   00:06:36    1.872   EPA MIGUEL RIOS
+   14     14     10  SENIOR           M    127   CORDON TOSCANO DANIEL                   01:14:51  03:32   16,91   00:07:03    1.987   EPA MIGUEL RIOS
+   15     15     11  SENIOR           M    127   GUILLEN AROCA JERONIMO                  01:14:53  03:32   16,90   00:07:05    1.996   CLUB TRIATLON P
+   16     16     12  SENIOR           M    127   CORDOBA GRANADOS FELIX                  01:14:55  03:33   16,90   00:07:07    2.004   TRIECIJA       
+   17     17     13  SENIOR           M    127   REINA COBO SALVADOR ANTONIO             01:15:30  03:34   16,77   00:07:42    2.152   TRIGUADIATO    
+   18     18      5  VETERANO A       M    147   ARENILLAS ORDOÑEZ FERNANDO              01:15:56  03:35   16,67   00:08:08    2.260   CA MONTELLANO  
+   19     19     14  SENIOR           M    127   ARCAS GARCIA JAVIER                     01:16:09  03:36   16,62   00:08:21    2.313   GEDYSA COMARCAL
+   20     20     15  SENIOR           M    127   ROLDAN MORENO JONATHAN                  01:16:56  03:38   16,45   00:09:08    2.505   TRIATLON PUENTE
+   21     21     16  SENIOR           M    127   GALAN JIMENEZ FRANCISCO                 01:16:57  03:38   16,45   00:09:09    2.509   CN JAEN TRIATLO
+   22     22     17  SENIOR           M    127   HAMMAD ENNAJIH YASSINE                  01:17:24  03:40   16,35   00:09:36    2.617   AMO ALLA       
+   23     23      6  VETERANO A       M    147   GORDO FERNANDEZ ANTONIO MANUEL          01:18:35  03:43   16,11   00:10:47    2.895   AMIGOS DL CANAL
+   24     24     18  SENIOR           M    127   VILLAR JIMENEZ FRANCISCO JOSE           01:18:36  03:43   16,10   00:10:48    2.899                  
+   25     25      7  VETERANO A       M    147   VELASCO CHACON JUAN FERNANDO            01:18:44  03:43   16,08   00:10:56    2.930   TROTASIERRA    
+   26     26      1  VETERANO B       M     88   TENLLADO RODRIGUEZ ANTONIO              01:18:54  03:44   16,04   00:11:06    2.968   AMIGOS DL CANAL
+   27     27     19  SENIOR           M    127   GALVEZ ZAMORANO JAVIER                  01:18:57  03:44   16,03   00:11:09    2.980   EPA MIGUEL RIOS
+   28     28      8  VETERANO A       M    147   RUIZ PEREZ MANUEL                       01:19:47  03:46   15,87   00:11:59    3.169                  
+   29     29      9  VETERANO A       M    147   BONILLA RODRIGUEZ PABLO                 01:20:15  03:48   15,77   00:12:27    3.273   CABRA RUNNING  
+   30     30     20  SENIOR           M    127   MANZANO JURADO PEDRO JESUS              01:20:38  03:49   15,70   00:12:50    3.358   CDA LOS 100 MET
+   31     31      2  VETERANO B       M     88   PEREZ ECIJA PEDRO                       01:20:47  03:49   15,67   00:12:59    3.391   CA RUTE        
+   32     32     10  VETERANO A       M    147   PORTERO SALAMANCA RAFAEL                01:20:48  03:49   15,67   00:13:00    3.394   C.A. MONTILLA  
+   33      1      1  SENIOR           F     18   LIMA RODRIGUEZ JANINE                   01:21:31  03:51   15,53   00:13:43    3.550   CA MALAGA      
+   34     33     21  SENIOR           M    127   RODRIGUEZ SANCHEZ MANUEL                01:21:47  03:52   15,48   00:13:59    3.607   CA RUTE        
+   35     34     11  VETERANO A       M    147   PINO BOTELLO ESTEBAN                    01:22:33  03:54   15,33   00:14:45    3.770   EPA MIGUEL RIOS
+   36     35     12  VETERANO A       M    147   RODRIGUEZ DURAN RAFAEL                  01:22:49  03:55   15,28   00:15:01    3.825   AMIGOS DL CANAL
+   37     36     22  SENIOR           M    127   TRIGO VALLE PEDRO MANUEL                01:22:49  03:55   15,28   00:15:01    3.825                  
+   38     37     13  VETERANO A       M    147   BLANCO RODRIGUEZ SERGIO                 01:22:51  03:55   15,28   00:15:03    3.832   CDA LOS 100 MET
+   39     38      3  VETERANO B       M     88   OSTOS GRAO ANTONIO                      01:22:58  03:55   15,26   00:15:10    3.857   TRIECIJA       
+   40     39     23  SENIOR           M    127   BARRERA BARRIOS VICTOR MANUEL           01:23:02  03:56   15,24   00:15:14    3.870                  
+   41     40     24  SENIOR           M    127   BALCHOT MIGUELES JUAN CARLOS            01:23:03  03:56   15,24   00:15:15    3.874   EPA MIGUEL RIOS
+   42     41     25  SENIOR           M    127   RODRIGUEZ CAMPOS DOMINGO                01:23:13  03:56   15,21   00:15:25    3.908   AMIGOS DL CANAL
+   43     42     26  SENIOR           M    127   PERAILES TENLLADO JUAN JOSE             01:23:22  03:57   15,18   00:15:34    3.939   EPA MIGUEL RIOS
+   44     43     14  VETERANO A       M    147   DEL CAÑO DELGADO DAVID                  01:23:24  03:57   15,18   00:15:36    3.946   CD ENTRENA@TRIJ
+   45      2      1  VETERANA B       F      8   AVERLAND SIGRID                         01:23:24  03:57   15,18   00:15:36    3.946   LOS CHAKALES   
+   46     44      4  VETERANO B       M     88   ANDRADE AVALOS JUAN                     01:23:50  03:58   15,10   00:16:02    4.035   CDA LA ANTORCHA
+   47     45     15  VETERANO A       M    147   CALDERON BAREA RAFAEL                   01:23:54  03:58   15,09   00:16:06    4.048   LOS LEGENDARIOS
+   48     46     27  SENIOR           M    127   PAEZ MEJIAS EMILIO                      01:24:04  03:59   15,06   00:16:16    4.082   LA RAMBLA      
+   49     47      5  VETERANO B       M     88   DOSIL FIGUEIRA JOSE RAMON               01:24:11  03:59   15,04   00:16:23    4.106   CUEVA D NERJA-U
+   50     48     16  VETERANO A       M    147   REGUERA BERNIER ABEL LUIS               01:24:12  03:59   15,03   00:16:24    4.109   CA CORDOBES    
+   51     49     28  SENIOR           M    127   GONZALEZ LABRADOR JESUS                 01:24:13  03:59   15,03   00:16:25    4.113   CA LOS CALIFAS 
+   52     50     17  VETERANO A       M    147   PANIAGUA VELA JULIO CESAR               01:24:15  03:59   15,02   00:16:27    4.119   CDA LA ANTORCHA
+   53     51     18  VETERANO A       M    147   LIGERO CANO MANUEL                      01:24:18  03:59   15,02   00:16:30    4.129   ATLETAS D ELITE
+   54     52     19  VETERANO A       M    147   MUÑOZ CANTERO JESUS                     01:24:24  04:00   15,00   00:16:36    4.149   CLUB MARATON LU
+   55     53      6  VETERANO B       M     88   GOMEZ GOMEZ JOSE                        01:24:25  04:00   14,99   00:16:37    4.153   CLUB MARATON LU
+   56     54     29  SENIOR           M    127   LAGO GUERRERO ISAAC                     01:24:40  04:00   14,95   00:16:52    4.203   TEAM ALCON     
+   57     55     30  SENIOR           M    127   OUKHOUCH MOHAMED                        01:24:42  04:00   14,94   00:16:54    4.209                  
+   58     56     20  VETERANO A       M    147   CORDOBES OTERO ANTONIO JAVIER           01:24:58  04:01   14,90   00:17:10    4.262                  
+   59     57     21  VETERANO A       M    147   PALMA FERNANDEZ JUAN                    01:25:10  04:02   14,86   00:17:22    4.302   AMIGOS DL CANAL
+   60     58     22  VETERANO A       M    147   ZAMORANO MARTINEZ FRANCISCO             01:25:15  04:02   14,85   00:17:27    4.318   LA RAMBLA      
+   61     59     23  VETERANO A       M    147   ESPINAR REY RAFAEL                      01:25:20  04:02   14,83   00:17:32    4.335                  
+   62     60     24  VETERANO A       M    147   BRICEÑO VENEGAS EDUARDO                 01:25:37  04:03   14,78   00:17:49    4.390   CA MALAGA      
+   63     61      7  VETERANO B       M     88   DOMINGUEZ IBAÑEZ JOSE MIGUEL            01:25:39  04:03   14,78   00:17:51    4.397   COOP D TRANSPOR
+   64     62     31  SENIOR           M    127   GALLARDO GUERRERO AGUSTIN               01:25:41  04:03   14,77   00:17:53    4.403   EPA MIGUEL RIOS
+   65     63      8  VETERANO B       M     88   DAZ VILLEGAS PEDRO                      01:25:42  04:03   14,77   00:17:54    4.406   CLUB MARATON LU
+   66     64     32  SENIOR           M    127   MAILLO CABALLERO JUAN CARLOS            01:25:43  04:03   14,77   00:17:55    4.410                  
+   67     65     25  VETERANO A       M    147   RECUERDA LOPEZ JOSE ANTONIO             01:25:45  04:03   14,76   00:17:57    4.416                  
+   68     66     33  SENIOR           M    127   SERENA ESCOBAR MANUEL                   01:25:46  04:03   14,76   00:17:58    4.419   ATLETISMO Y TRI
+   69     67     34  SENIOR           M    127   PEREZ SANCHEZ MIGUEL ANGEL              01:26:00  04:04   14,72   00:18:12    4.465   EPA MIGUEL RIOS
+   70     68     26  VETERANO A       M    147   ARENAS MUÑOZ JUAN DIEGO                 01:26:03  04:04   14,71   00:18:15    4.474   AMIGOS DL CANAL
+   71     69     35  SENIOR           M    127   CUBERO MUÑOZ RUBEN                      01:26:09  04:05   14,69   00:18:21    4.494   CLUB MARATON LU
+   72     70     27  VETERANO A       M    147   PRADO FLORES EMILIO                     01:26:10  04:05   14,69   00:18:22    4.497   LOS LEGENDARIOS
+   73     71      9  VETERANO B       M     88   ANGULO ORTIZ SALVADOR                   01:26:30  04:06   14,63   00:18:42    4.561   ATLETAS D ELITE
+   74     72     28  VETERANO A       M    147   LUQUE OSUNA FRANCISCO GRABIEL           01:26:37  04:06   14,61   00:18:49    4.583   EPA MIGUEL RIOS
+   75     73     29  VETERANO A       M    147   NAVAS CESAR ANTONIO                     01:26:47  04:06   14,59   00:18:59    4.615   CABRA RUNNING  
+   76      3      1  VETERANA A       F     20   BELMONTE MARTINEZ MARIA                 01:26:55  04:07   14,56   00:19:07    4.640   RUNNERS PURA CE
+   77     74     36  SENIOR           M    127   ARTEAGA BENJUMEA MANUEL                 01:26:56  04:07   14,56   00:19:08    4.643   RUNNERS PURA CE
+   78     75     10  VETERANO B       M     88   REYES TORRUS MARTIN JAVIER              01:26:56  04:07   14,56   00:19:08    4.643   AMIGOS DL CANAL
+   79     76     30  VETERANO A       M    147   NOGALEZ GRANADOS CANDIDO                01:27:03  04:07   14,54   00:19:15    4.665   EPA MIGUEL RIOS
+   80     77     11  VETERANO B       M     88   FERNANDEZ COTRINA JOSE MANUEL           01:27:15  04:08   14,51   00:19:27    4.703   CA ARROYO D LA 
+   81     78     31  VETERANO A       M    147   MORALES ZAFRA JOSE MIGUEL               01:27:23  04:08   14,49   00:19:35    4.728   FISIO360       
+   82     79     32  VETERANO A       M    147   VALVERDE RUIZ RAFAEL                    01:27:33  04:08   14,46   00:19:45    4.759   CLUB MARATON LU
+   83     80     12  VETERANO B       M     88   GARCIA VELASCO MIGUEL A.                01:27:35  04:09   14,45   00:19:47    4.765   EPA MIGUEL RIOS
+   84     81     33  VETERANO A       M    147   RODRIGUEZ MOLINA SERGIO                 01:27:36  04:09   14,45   00:19:48    4.768   EPA MIGUEL RIOS
+   85     82     13  VETERANO B       M     88   RECIO CANO FRANCISCO JAVIER             01:27:39  04:09   14,44   00:19:51    4.778   AMO ALLA       
+   86     83     34  VETERANO A       M    147   CACERES GARCIA SERGIO                   01:27:42  04:09   14,43   00:19:54    4.787   AMIGOS DL CANAL
+   87     84     37  SENIOR           M    127   MORALES MOSQUERA LORENZO                01:27:43  04:09   14,43   00:19:55    4.790   BUJALANCE ATL. 
+   88     85     35  VETERANO A       M    147   VALERA LARA JUAN                        01:27:58  04:10   14,39   00:20:10    4.837   CLUB MARATON LU
+   89     86     38  SENIOR           M    127   ARROYO SANCHEZ MIGUEL ANGEL             01:28:02  04:10   14,38   00:20:14    4.849   SILVERBACK TEAM
+   90     87     36  VETERANO A       M    147   LUQUE FUILLERAT JOSE MANUEL             01:28:09  04:10   14,36   00:20:21    4.870   AMIGOS DL CANAL
+   91     88     39  SENIOR           M    127   RUIZ REJANO SAMUEL                      01:28:10  04:10   14,36   00:20:22    4.873                  
+   92     89     40  SENIOR           M    127   GARCIA CALVILLO JULIAN                  01:28:12  04:10   14,35   00:20:24    4.880   CLUB MARATON LU
+   93     90     14  VETERANO B       M     88   LEBRATO MARTINEZ FRANCISCO              01:28:14  04:10   14,35   00:20:26    4.886   DEVIL BIKE TEAM
+   94     91     37  VETERANO A       M    147   FRANCO RAMOS JOSE                       01:28:22  04:11   14,32   00:20:34    4.910   AMO ALLA       
+   95     92     38  VETERANO A       M    147   CABALLERO SANCHEZ JUAN DE MATA          01:28:23  04:11   14,32   00:20:35    4.913   CLUB MARATON LU
+   96     93     41  SENIOR           M    127   ZAFRA REPISO MIGUEL ANGEL               01:28:29  04:11   14,31   00:20:41    4.932   TRIBULLS       
+   97      4      2  VETERANA A       F     20   DIAZ MORALES CRISTINA                   01:28:31  04:11   14,30   00:20:43    4.938   BETTA          
+   98     94     15  VETERANO B       M     88   LUQUE ALGAR FRANCISCO                   01:28:55  04:12   14,24   00:21:07    5.010   AMIGOS DL CANAL
+   99     95     42  SENIOR           M    127   ONORATO BRAVO IGNACIO                   01:28:57  04:12   14,23   00:21:09    5.016                  
+  100     96      1  VETERANO C       M      9   MEJIAS GARCIA JOSE                      01:29:02  04:13   14,22   00:21:14    5.031   LA RAMBLA      
+  101     97     43  SENIOR           M    127   DOMINGUEZ TRAPERO MANUEL                01:29:03  04:13   14,21   00:21:15    5.034   LA RAMBLA      
+  102     98     44  SENIOR           M    127   CESAR NAVAS ANTONIO                     01:29:04  04:13   14,21   00:21:16    5.037                  
+  103     99     39  VETERANO A       M    147   HORMIGO ARCEDO DIEGO                    01:29:27  04:14   14,15   00:21:39    5.106   CDA LA ANTORCHA
+  104    100     45  SENIOR           M    127   SERRANO CALERO JOSE M.                  01:29:30  04:14   14,14   00:21:42    5.115   EPA MIGUEL RIOS
+  105    101     46  SENIOR           M    127   SIERRA BAENA MANUEL                     01:29:37  04:14   14,12   00:21:49    5.136   LOS REKEMAOS   
+  106    102     40  VETERANO A       M    147   LLAMAS MUÑOZ MIGUEL ANGEL               01:29:41  04:15   14,11   00:21:53    5.148   EPA MIGUEL RIOS
+  107    103     47  SENIOR           M    127   CARRILLO ESTEPA PEDRO JESUS             01:29:46  04:15   14,10   00:21:58    5.163   CLUB MARATON LU
+  108    104     48  SENIOR           M    127   VERA ROMERO MANUEL                      01:30:07  04:16   14,05   00:22:19    5.225   LA RAMBLA      
+  109    105     41  VETERANO A       M    147   RUIZ GARCIA ANGEL                       01:30:20  04:16   14,01   00:22:32    5.263   CA LOS CALIFAS 
+  110    106     42  VETERANO A       M    147   POSADAS LOZANO JAVIER                   01:30:21  04:16   14,01   00:22:33    5.265   @UCORS@ TRAIL  
+  111    107     49  SENIOR           M    127   LUQUE AMADOR MANUEL                     01:30:22  04:17   14,01   00:22:34    5.268   AMIGOS DL CANAL
+  112    108     43  VETERANO A       M    147   CABEZAS CARMONA MIGUEL ANGEL            01:30:22  04:17   14,01   00:22:34    5.268   AMIGOS DL CANAL
+  113    109     16  VETERANO B       M     88   NIETO COMINO JOSE                       01:30:24  04:17   14,00   00:22:36    5.274   CLUB MARATON LU
+  114    110     50  SENIOR           M    127   MORENO VELAZQUEZ MIGUEL ANGEL           01:30:31  04:17   13,98   00:22:43    5.295   LOS LEGENDARIOS
+  115    111     17  VETERANO B       M     88   REQUENA MORENO RAFAEL                   01:30:31  04:17   13,98   00:22:43    5.295                  
+  116    112     44  VETERANO A       M    147   LUIS GALLARDO FERNANDO                  01:30:33  04:17   13,98   00:22:45    5.300   BICHOS RUNEERS 
+  117    113     45  VETERANO A       M    147   LARA LARA ANTONIO                       01:30:40  04:17   13,96   00:22:52    5.321   CLUB MARATON LU
+  118    114     51  SENIOR           M    127   SEGURA GARCIA ANTONIO                   01:30:41  04:17   13,96   00:22:53    5.324   CD OHMIO ARAHAL
+  119    115     46  VETERANO A       M    147   GONZALEZ SANCHEZ JOSE ANTONIO           01:30:47  04:18   13,94   00:22:59    5.341                  
+  120    116     47  VETERANO A       M    147   SANCHEZ GUTIERREZ DAVID                 01:30:48  04:18   13,94   00:23:00    5.344                  
+  121    117     18  VETERANO B       M     88   DATO DATO MANUEL                        01:30:49  04:18   13,94   00:23:01    5.347                  
+  122    118     48  VETERANO A       M    147   CHACON AGUILAR JUAN CARLOS              01:30:53  04:18   13,93   00:23:05    5.358   AMIGOS DL CANAL
+  123    119     49  VETERANO A       M    147   MARIN HERNANDEZ FRANCISCO JESUS         01:30:58  04:18   13,92   00:23:10    5.373   SILVERBACK TEAM
+  124    120     52  SENIOR           M    127   HIDALGO MIGUELES JAIRO                  01:31:01  04:18   13,91   00:23:13    5.381   AMIGOS DL CANAL
+  125    121     19  VETERANO B       M     88   GARCIA ALMAGRO MANUEL JESUS             01:31:07  04:19   13,89   00:23:19    5.399   CD OHMIO ARAHAL
+  126    122     20  VETERANO B       M     88   SAAVEDRA SAAVEDRA FERNANDO              01:31:18  04:19   13,86   00:23:30    5.430   AMIGOS DL CANAL
+  127    123     50  VETERANO A       M    147   PACHECO CABANILLAS ANTONIO              01:31:22  04:19   13,85   00:23:34    5.442   KENYATAS SANTAE
+  128    124     53  SENIOR           M    127   MORALES LEON JUAN LUIS                  01:31:30  04:20   13,83   00:23:42    5.464   CLUB MARATON LU
+  129    125      2  VETERANO C       M      9   PINO LARA PABLO                         01:31:32  04:20   13,83   00:23:44    5.470   CLUB MARATON LU
+  130    126     54  SENIOR           M    127   OCHOA MAESO ANTONIO                     01:31:41  04:20   13,81   00:23:53    5.496                  
+  131    127     55  SENIOR           M    127   RUZ JIMENEZ ALFONSO                     01:31:42  04:20   13,80   00:23:54    5.499   EPA MIGUEL RIOS
+  132    128     56  SENIOR           M    127   PALMA MUÑOZ FRANCISCO                   01:31:56  04:21   13,77   00:24:08    5.538                  
+  133    129     21  VETERANO B       M     88   VELASCO RODRIGUEZ ANTONIO JESUS         01:32:01  04:21   13,76   00:24:13    5.552   AMIGOS DL CANAL
+  134    130     51  VETERANO A       M    147   MARTIN AGUILAR RAFAEL                   01:32:02  04:21   13,75   00:24:14    5.555   AMIGOS DL CANAL
+  135    131     52  VETERANO A       M    147   BENJUMEA LEON ANTONIO                   01:32:03  04:21   13,75   00:24:15    5.558   AMIGOS DL CANAL
+  136    132     53  VETERANO A       M    147   MARTIN GUERRERO MANUEL                  01:32:03  04:21   13,75   00:24:15    5.558   AMIGOS DL CANAL
+  137    133     54  VETERANO A       M    147   BENJUMEA LEON ROBERTO                   01:32:04  04:21   13,75   00:24:16    5.561   AMIGOS DL CANAL
+  138    134     55  VETERANO A       M    147   RUIZ GUTIERREZ DAVID                    01:32:04  04:21   13,75   00:24:16    5.561   AMIGOS DL CANAL
+  139    135     56  VETERANO A       M    147   GARCIA LOPEZ ANTONIO JESUS              01:32:08  04:22   13,74   00:24:20    5.572   LOS REKEMAOS   
+  140    136      3  VETERANO C       M      9   BAENA JIMENEZ JOSE                      01:32:08  04:22   13,74   00:24:20    5.572   AMIGOS DL CANAL
+  141      5      2  SENIOR           F     18   JIMENEZ DIAZ BELEN                      01:32:12  04:22   13,73   00:24:24    5.583   ATLETISMO Y TRI
+  142    137     22  VETERANO B       M     88   JIMENEZ CASADO ANTONIO                  01:32:14  04:22   13,72   00:24:26    5.589   ATLETISMO Y TRI
+  143    138     23  VETERANO B       M     88   TOSCANO GALISTEO FRANCISCO              01:32:20  04:22   13,71   00:24:32    5.606   AMO ALLA       
+  144    139     57  VETERANO A       M    147   PIGNE SEVILLANO NICOLAS                 01:32:25  04:22   13,70   00:24:37    5.620   CA EL PERDIGON 
+  145    140     57  SENIOR           M    127   DELGADO OSUNA JOSE ANTONIO              01:32:34  04:23   13,67   00:24:46    5.645   EPA MIGUEL RIOS
+  146    141     58  SENIOR           M    127   GILARTE CASERO RAFA                     01:32:38  04:23   13,66   00:24:50    5.656   CLUB MARATON LU
+  147    142     59  SENIOR           M    127   AREVALO TORRES JUAN JOSE                01:32:41  04:23   13,66   00:24:53    5.664   CLUB TRIATLON P
+  148    143     60  SENIOR           M    127   RODRIGUEZ MUÑOZ DANIEL                  01:32:50  04:24   13,64   00:25:02    5.689   RUNNING SERIES 
+  149    144     24  VETERANO B       M     88   JIMENEZ CASTILLO DAVID                  01:32:50  04:24   13,64   00:25:02    5.689   CD OHMIO ARAHAL
+  150    145     25  VETERANO B       M     88   RUIZ MUÑOZ JOAQUIN                      01:33:14  04:25   13,58   00:25:26    5.755   KENYATAS SANTAE
+  151    146     61  SENIOR           M    127   CANO ROMERO FRANCISCO JUAN              01:33:19  04:25   13,56   00:25:31    5.769                  
+  152    147     58  VETERANO A       M    147   GARCIA LOPEZ JOSE                       01:33:26  04:25   13,55   00:25:38    5.788   AMO ALLA       
+  153    148     59  VETERANO A       M    147   CABELLO. LAGUNA ENRIQUE                 01:33:29  04:25   13,54   00:25:41    5.796   CA ASTIGI      
+  154    149     62  SENIOR           M    127   MUÑOZ SECILLA JOSE ANTONIO              01:33:46  04:26   13,50   00:25:58    5.842                  
+  155    150     63  SENIOR           M    127   CARMONA MORALES FRANCISCO J.            01:33:50  04:26   13,49   00:26:02    5.853   C.T. PUENTE GEN
+  156      6      3  SENIOR           F     18   BEATO RAMIREZ LUCIA                     01:33:51  04:26   13,49   00:26:03    5.856   CLUB MARATON LU
+  157    151     26  VETERANO B       M     88   BEATO FERNANDEZ JESUS                   01:33:52  04:26   13,49   00:26:04    5.859   CLUB MARATON LU
+  158    152     60  VETERANO A       M    147   GALLARDO RUIZ PEDRO JOSE                01:33:55  04:27   13,48   00:26:07    5.867                  
+  159    153     61  VETERANO A       M    147   LOMARES ASENCIO ANTONIO JAVIER          01:33:58  04:27   13,47   00:26:10    5.875   EPA MIGUEL RIOS
+  160    154     64  SENIOR           M    127   LARA GALAN FERNANDO                     01:33:59  04:27   13,47   00:26:11    5.878   CA MONTORO     
+  161    155     65  SENIOR           M    127   GALVEZ MALDONADO RAFAEL                 01:33:59  04:27   13,47   00:26:11    5.878   EPA MIGUEL RIOS
+  162    156     62  VETERANO A       M    147   REINA NIETO NESTOR                      01:34:00  04:27   13,47   00:26:12    5.880   EPA MIGUEL RIOS
+  163      7      3  VETERANA A       F     20   AMARO EGEA ARACELI                      01:34:06  04:27   13,45   00:26:18    5.896   CLUB MARATON LU
+  164    157     63  VETERANO A       M    147   PACHON JIMENEZ FRANCISCO                01:34:07  04:27   13,45   00:26:19    5.899   EPA MIGUEL RIOS
+  165    158     64  VETERANO A       M    147   NAVARRO JIMENEZ ANTONIO J               01:34:07  04:27   13,45   00:26:19    5.899   CD OHMIO ARAHAL
+  166    159     65  VETERANO A       M    147   ROMERO TORRES ALBERTO                   01:34:11  04:27   13,44   00:26:23    5.910                  
+  167      8      4  VETERANA A       F     20   ARAQUE GONZALEZ MAR                     01:34:19  04:28   13,42   00:26:31    5.931                  
+  168    160     66  VETERANO A       M    147   AGUILAR GUERRERO ANTONIO JESUS          01:34:23  04:28   13,41   00:26:35    5.942   CA RUTE        
+  169    161     67  VETERANO A       M    147   PRIEGO DELGADO FRANCISCO                01:34:30  04:28   13,39   00:26:42    5.961   EPA MIGUEL RIOS
+  170    162     66  SENIOR           M    127   NUNEZ TRIGOS PEDRO                      01:34:32  04:28   13,39   00:26:44    5.966   CA HERRERA     
+  171    163     68  VETERANO A       M    147   CASTRO SANCHEZ DAVID                    01:34:46  04:29   13,36   00:26:58    6.003                  
+  172    164     69  VETERANO A       M    147   JIMENEZ MORENO ANTONIO JOSE             01:34:54  04:29   13,34   00:27:06    6.025   ATLETAS D ELITE
+  173    165     67  SENIOR           M    127   RODRIGUEZ CAMPOS JESUS                  01:34:57  04:30   13,33   00:27:09    6.032   EPA MIGUEL RIOS
+  174    166     27  VETERANO B       M     88   GARCIA CUENCA PEDRO                     01:35:03  04:30   13,32   00:27:15    6.048   EPA MIGUEL RIOS
+  175      9      5  VETERANA A       F     20   MENGUAL MATA RAFI                       01:35:04  04:30   13,32   00:27:16    6.051   EPA MIGUEL RIOS
+  176    167     70  VETERANO A       M    147   PRIETO GRANADOS RAFA                    01:35:11  04:30   13,30   00:27:23    6.069   EPA MIGUEL RIOS
+  177    168     28  VETERANO B       M     88   BURGUILLOS BURGUILLOS FRANCISCO         01:35:22  04:31   13,27   00:27:34    6.098   CLUB MARATON LU
+  178    169     71  VETERANO A       M    147   RIOS GARCIA FRANCISCO                   01:35:23  04:31   13,27   00:27:35    6.101   EPA MIGUEL RIOS
+  179     10      6  VETERANA A       F     20   RIVAS AGUILAR MERCEDES                  01:35:30  04:31   13,25   00:27:42    6.119   EPA MIGUEL RIOS
+  180    170     72  VETERANO A       M    147   LAVELA BARRANCO RAUL                    01:35:36  04:31   13,24   00:27:48    6.135                  
+  181    171     73  VETERANO A       M    147   MARQUES PEREZ DE LA LASTRA JOSE         01:35:37  04:31   13,24   00:27:49    6.138   LOS FATIGUITAS 
+  182    172     74  VETERANO A       M    147   DOMINGUEZ DE LA ROSA FRANCISCO          01:35:50  04:32   13,21   00:28:02    6.171   LOS REKEMAOS   
+  183    173     75  VETERANO A       M    147   AGUILAR RIVAS ANTONIO JOSE              01:35:52  04:32   13,20   00:28:04    6.177                  
+  184    174     76  VETERANO A       M    147   FERNANDEZ GARCIA RAFAEL                 01:35:57  04:32   13,19   00:28:09    6.189   LA RAMBLA      
+  185    175     68  SENIOR           M    127   DIAZ MOLINA FRANCISCO MANUEL            01:35:58  04:32   13,19   00:28:10    6.192                  
+  186    176     29  VETERANO B       M     88   FLORES PIERNAGORDA DIONISIO             01:36:00  04:33   13,19   00:28:12    6.197   CLUB MARATON LU
+  187    177     69  SENIOR           M    127   LUQUE ORDOÑEZ PEDRO JOSE                01:36:13  04:33   13,16   00:28:25    6.231   CABRA RUNNING  
+  188    178     30  VETERANO B       M     88   CABELLO MUÑOZ DOMINGO                   01:36:27  04:34   13,12   00:28:39    6.267   AMIGOS DL CANAL
+  189    179     77  VETERANO A       M    147   VILLA HUMANEZ MIGUEL                    01:36:33  04:34   13,11   00:28:45    6.282   AMIGOS DL CANAL
+  190    180     78  VETERANO A       M    147   GUERRERO GONZALEZ ANTONIO               01:36:37  04:34   13,10   00:28:49    6.292   KABRAS LOKAS TR
+  191    181     31  VETERANO B       M     88   NUÑEZ FRANCO MANUEL                     01:36:38  04:34   13,10   00:28:50    6.295   AMIGOS DL CANAL
+  192    182     79  VETERANO A       M    147   GALVEZ AMO ANTONIO                      01:36:39  04:34   13,10   00:28:51    6.297   AMIGOS DL CANAL
+  193    183     70  SENIOR           M    127   GONZALEZ CARRASCO DIEGO                 01:36:40  04:34   13,09   00:28:52    6.300   KS KROTOSZ KROT
+  194    184     71  SENIOR           M    127   BOTELLA GRANADOS FRANCISCO              01:36:45  04:35   13,08   00:28:57    6.313   EPA MIGUEL RIOS
+  195     11      4  SENIOR           F     18   ARANDA MATAS ESTEFANIA                  01:36:46  04:35   13,08   00:28:58    6.315   CA MALAGA BAHIA
+  196    185     32  VETERANO B       M     88   RAMOS GONZALEZ MIGUEL A.                01:36:47  04:35   13,08   00:28:59    6.318   EPA MIGUEL RIOS
+  197    186     33  VETERANO B       M     88   CUENCA CABEZAS MANUEL                   01:36:49  04:35   13,07   00:29:01    6.323   AMIGOS DL CANAL
+  198    187     34  VETERANO B       M     88   GALVEZ MORENO JOSE                      01:36:50  04:35   13,07   00:29:02    6.325   AMIGOS DL CANAL
+  199    188     80  VETERANO A       M    147   RUANO CABEZUDO LUIS                     01:36:52  04:35   13,07   00:29:04    6.331   LICEO CLUB D AL
+  200    189     72  SENIOR           M    127   MAIRELES ROMERO ANTONIO                 01:37:03  04:36   13,04   00:29:15    6.358   CA GILENA      
+  201    190     73  SENIOR           M    127   PEREZ QUERO FRANCISCO JAVIER            01:37:04  04:36   13,04   00:29:16    6.361   EPA MIGUEL RIOS
+  202    191     81  VETERANO A       M    147   REINA ALES JOSE MANUEL                  01:37:10  04:36   13,03   00:29:22    6.376   EPA MIGUEL RIOS
+  203    192     82  VETERANO A       M    147   GARCIA GUTIERREZ AGUSTIN                01:37:12  04:36   13,02   00:29:24    6.381   ATLETISMO EGABR
+  204    193     83  VETERANO A       M    147   RAMIREZ JIMENEZ JOSE LUIS               01:37:13  04:36   13,02   00:29:25    6.384   MARATHON ALCAUD
+  205    194     84  VETERANO A       M    147   CONTRERAS LOPEZ CESAR                   01:37:14  04:36   13,02   00:29:26    6.386   MARATHON ALCAUD
+  206    195     85  VETERANO A       M    147   ESCRIBANO MARQUEZ JAIME                 01:37:14  04:36   13,02   00:29:26    6.386   MARATHON ALCAUD
+  207    196     74  SENIOR           M    127   GARCIA CANO SERGIO                      01:37:16  04:36   13,01   00:29:28    6.391   MARATHON ALCAUD
+  208    197     86  VETERANO A       M    147   CALZADO BAENA MANUEL                    01:37:16  04:36   13,01   00:29:28    6.391   CDE META 2004  
+  209    198     87  VETERANO A       M    147   PEREZ MORA JORGE                        01:37:51  04:38   12,94   00:30:03    6.479   CA CAMPILLOS   
+  210    199     88  VETERANO A       M    147   BLANCAS DE LA ROSA LUCAS MANUEL         01:37:52  04:38   12,93   00:30:04    6.481   CLUB MARATON LU
+  211    200     75  SENIOR           M    127   LUQUE JIMENEZ ENRIQUE                   01:38:01  04:38   12,91   00:30:13    6.504   LA RAMBLA      
+  212    201     89  VETERANO A       M    147   CRIADO ROJAS SEBASTIAN                  01:38:12  04:39   12,89   00:30:24    6.531   CA MONTORO     
+  213    202     76  SENIOR           M    127   RIVAS GUERRERO ANTONIO                  01:38:15  04:39   12,88   00:30:27    6.538                  
+  214    203     77  SENIOR           M    127   VEGA FUENTES JUAN FRANCISCO             01:38:18  04:39   12,88   00:30:30    6.546                  
+  215    204     90  VETERANO A       M    147   LOPEZ JURADO JUAN ANTONIO               01:38:19  04:39   12,87   00:30:31    6.548                  
+  216    205     35  VETERANO B       M     88   MOLINA ESTRADA MANUEL                   01:38:26  04:39   12,86   00:30:38    6.566   AMIGOS DL CANAL
+  217    206     78  SENIOR           M    127   GUERRERO CACERES FRANCISO JESUS         01:38:34  04:40   12,84   00:30:46    6.585   AMIGOS DL CANAL
+  218    207      4  VETERANO C       M      9   LEBRON TRIGO ANTONIO                    01:38:36  04:40   12,84   00:30:48    6.590   CA CAMPILLOS   
+  219    208     91  VETERANO A       M    147   SERRANO ANTUNEZ PEDRO JAVIER            01:38:50  04:41   12,81   00:31:02    6.624                  
+  220    209     36  VETERANO B       M     88   HORTON STEVE                            01:38:53  04:41   12,80   00:31:05    6.632   AMIGOS DL CANAL
+  221    210     79  SENIOR           M    127   AGUILAR RODRIGUEZ DANIEL                01:39:06  04:41   12,77   00:31:18    6.663   ATLETAS D ELITE
+  222    211     80  SENIOR           M    127   RODRIGUEZ CASTILLA JUAN CARLOS          01:39:07  04:41   12,77   00:31:19    6.666   ATLETAS D ELITE
+  223    212     37  VETERANO B       M     88   GONZALEZ MARTIN JOSE MIGUEL             01:39:08  04:41   12,77   00:31:20    6.668   AXARLON        
+  224    213     92  VETERANO A       M    147   GARCIA BUZO FCO. JAVIER                 01:39:09  04:41   12,77   00:31:21    6.671                  
+  225    214     93  VETERANO A       M    147   BARBERO REDONDO JOSE MANUEL             01:39:09  04:41   12,77   00:31:21    6.671   CA LOS CALIFAS 
+  226    215     38  VETERANO B       M     88   MORALES MONTERO ANTONIO                 01:39:15  04:42   12,75   00:31:27    6.685   AMIGOS DL CANAL
+  227    216     94  VETERANO A       M    147   BERRAL FAJARDO JESUS                    01:39:15  04:42   12,75   00:31:27    6.685   AMIGOS DL CANAL
+  228    217     39  VETERANO B       M     88   NUÑEZ QUERO JOSE FRANCISCO              01:39:16  04:42   12,75   00:31:28    6.688   AMIGOS DL CANAL
+  229    218     40  VETERANO B       M     88   RIVAS COSANO DIEGO                      01:39:16  04:42   12,75   00:31:28    6.688   AMIGOS DL CANAL
+  230    219     81  SENIOR           M    127   DONOSO SANCHEZ DANIEL                   01:39:41  04:43   12,70   00:31:53    6.748   ATL TROTASIERRA
+  231    220     41  VETERANO B       M     88   GALVEZ MARTIN ANTONIO                   01:39:47  04:43   12,69   00:31:59    6.762   CDA LOS 100 MET
+  232    221     42  VETERANO B       M     88   LOPEZ MARCHAN RAFAEL                    01:39:48  04:43   12,68   00:32:00    6.765   CDA LOS 100 MET
+  233    222     95  VETERANO A       M    147   PEREZ CAPITAN ANTONIO JESUS             01:39:50  04:43   12,68   00:32:02    6.769   CDA LOS 100 MET
+  234    223     96  VETERANO A       M    147   FERNANDEZ FERNANDEZ ANTONIO MANUEL      01:39:50  04:43   12,68   00:32:02    6.769   CDA LOS 100 MET
+  235    224     97  VETERANO A       M    147   PEREZ MONTES MANUEL                     01:39:51  04:43   12,68   00:32:03    6.772   AMIGOS DL CANAL
+  236    225     43  VETERANO B       M     88   REJANO GUERRA CARLOS MARIA              01:39:52  04:44   12,68   00:32:04    6.774   AMIGOS DL CANAL
+  237    226     98  VETERANO A       M    147   CUEVAS FERNANDEZ JUAN JOSE              01:39:57  04:44   12,66   00:32:09    6.786   AMIGOS DL CANAL
+  238    227     44  VETERANO B       M     88   BORRUEL AZNAREZ JOSE MIGUEL             01:39:58  04:44   12,66   00:32:10    6.788   AMIGOS DL CANAL
+  239    228     99  VETERANO A       M    147   MURIEL BERRAL ANTONIO                   01:39:59  04:44   12,66   00:32:11    6.791   AMIGOS DL CANAL
+  240    229     82  SENIOR           M    127   SANCHEZ GAMIZ FRANCISCO J               01:39:59  04:44   12,66   00:32:11    6.791                  
+  241    230     83  SENIOR           M    127   GOMEZ MIRANDA ANTONIO JOSE              01:40:19  04:45   12,62   00:32:31    6.838                  
+  242    231     84  SENIOR           M    127   LOPEZ LEON ANGEL                        01:40:19  04:45   12,62   00:32:31    6.838   INFORMALES DL A
+  243    232     85  SENIOR           M    127   PINEDA CARRION JAIME                    01:40:20  04:45   12,62   00:32:32    6.841                  
+  244    233     45  VETERANO B       M     88   REINA LOZANO JESUS                      01:40:28  04:45   12,60   00:32:40    6.860                  
+  245    234      5  VETERANO C       M      9   SANCHEZ PEREZ JULIAN                    01:40:34  04:46   12,59   00:32:46    6.874   AMIGOS DL CANAL
+  246    235     86  SENIOR           M    127   VIDAL RICO RAUL                         01:40:34  04:46   12,59   00:32:46    6.874   AMIGOS DL CANAL
+  247    236     87  SENIOR           M    127   NIETO GARCIA DAVID                      01:40:40  04:46   12,57   00:32:52    6.888   CA PALMA DL RIO
+  248    237     46  VETERANO B       M     88   CORDON LUQUE FRANCISCO                  01:40:59  04:47   12,53   00:33:11    6.933   AMO ALLA       
+  249    238    100  VETERANO A       M    147   DE LA CRUZ LOPEZ RAFA                   01:41:09  04:47   12,51   00:33:21    6.956   EPA MIGUEL RIOS
+  250    239     88  SENIOR           M    127   GARRIDO JIMENEZ ANTONIO J.              01:41:09  04:47   12,51   00:33:21    6.956   EPA MIGUEL RIOS
+  251     12      5  SENIOR           F     18   ROMERO SILVA SOCORRO                    01:41:16  04:48   12,50   00:33:28    6.972                  
+  252    240     47  VETERANO B       M     88   LEIVA LOPEZ JUAN                        01:41:34  04:48   12,46   00:33:46    7.014   AMIGOS DL CANAL
+  253    241     48  VETERANO B       M     88   ORTEGA ORTEGA MANUEL                    01:41:37  04:48   12,46   00:33:49    7.021   CLUB MARATON LU
+  254    242    101  VETERANO A       M    147   ESTRADA RIVAS JOSE MANUEL               01:41:43  04:49   12,44   00:33:55    7.035   AMIGOS DL CANAL
+  255     13      2  VETERANA B       F      8   MARTIN PRADAS CHARI                     01:41:50  04:49   12,43   00:34:02    7.051   CLUDECA        
+  256    243     49  VETERANO B       M     88   BAENA LEON JOSE                         01:41:55  04:49   12,42   00:34:07    7.062                  
+  257    244    102  VETERANO A       M    147   NAVAS RIOS FRANCISCO                    01:41:57  04:49   12,42   00:34:09    7.067   AMIGOS DL CANAL
+  258    245    103  VETERANO A       M    147   AGUILERA GARCIA JUAN CARLOS             01:42:01  04:50   12,41   00:34:13    7.076                  
+  259    246     50  VETERANO B       M     88   BASCON COSANO CARLOS                    01:42:06  04:50   12,40   00:34:18    7.087   MARATON POZOBLA
+  260    247     89  SENIOR           M    127   GAMA CABEZAS DANIEL                     01:42:16  04:50   12,38   00:34:28    7.110   AMIGOS DL CANAL
+  261    248     51  VETERANO B       M     88   RODRIGUEZ LEIVA JOSE                    01:42:17  04:50   12,38   00:34:29    7.113   EPA MIGUEL RIOS
+  262    249     90  SENIOR           M    127   MARIN ORTIZ ANTONIO                     01:42:19  04:50   12,37   00:34:31    7.117   EPA MIGUEL RIOS
+  263    250     91  SENIOR           M    127   MARTIN CASTILLA JOSE ANTONIO            01:42:24  04:51   12,36   00:34:36    7.128                  
+  264    251    104  VETERANO A       M    147   REDONDO VALIENTE JAIME                  01:42:29  04:51   12,35   00:34:41    7.140   KABRAS LOKAS TR
+  265    252    105  VETERANO A       M    147   MIRANDA CARMONA DAVID                   01:42:30  04:51   12,35   00:34:42    7.142   CA ASTIGI      
+  266    253     52  VETERANO B       M     88   FERNANDEZ VELASCO AGUSTIN               01:42:33  04:51   12,34   00:34:45    7.149                  
+  267    254     92  SENIOR           M    127   ZAMBRANA CABEZAS MOISES                 01:42:33  04:51   12,34   00:34:45    7.149   CLUB ARUNCI    
+  268    255     93  SENIOR           M    127   ZAMBRANA CABEZAS ANTONIO JOSE           01:42:35  04:51   12,34   00:34:47    7.153                  
+  269    256     94  SENIOR           M    127   ABAD MARTINEZ GREGORIO                  01:42:36  04:51   12,34   00:34:48    7.156                  
+  270    257    106  VETERANO A       M    147   MARTIN ISMAEL                           01:42:36  04:51   12,34   00:34:48    7.156   CA ASTIGI      
+  271    258     95  SENIOR           M    127   FERNANDEZ PALACIOS FRANCISCO            01:42:37  04:51   12,34   00:34:49    7.158   ATLETISMO ARROL
+  272     14      7  VETERANA A       F     20   RIVAS COSANO MONICA                     01:42:38  04:51   12,33   00:34:50    7.160   AMIGOS DL CANAL
+  273     15      3  VETERANA B       F      8   ALARCON ORTIZ INES                      01:42:44  04:52   12,32   00:34:56    7.174   AMIGOS DL CANAL
+  274     16      8  VETERANA A       F     20   MENDEZ BERNAL MARIA                     01:42:45  04:52   12,32   00:34:57    7.176                  
+  275     17      6  SENIOR           F     18   PEDRAZA LUNA ALBA MARIA                 01:42:50  04:52   12,31   00:35:02    7.187   CD EL POZO     
+  276    259     96  SENIOR           M    127   DIAZ GONZALEZ JOSE MIGUEL               01:42:51  04:52   12,31   00:35:03    7.190                  
+  277    260     97  SENIOR           M    127   LOPEZ GARCIA JUAN RAFAEL                01:43:00  04:52   12,29   00:35:12    7.210                  
+  278    261     98  SENIOR           M    127   BERRAL BERRAL PEDRO ANGEL               01:43:14  04:53   12,26   00:35:26    7.241   MONTILLA-CORDOB
+  279    262     99  SENIOR           M    127   DIAZ CASTRO FRANCISCO MANUEL            01:43:15  04:53   12,26   00:35:27    7.243                  
+  280    263    107  VETERANO A       M    147   GONZALEZ MARTOS PEDRO                   01:43:33  04:54   12,22   00:35:45    7.284   AMIGOS DL CANAL
+  281    264    108  VETERANO A       M    147   ARJONA PRIETO LUIS MANUEL               01:43:35  04:54   12,22   00:35:47    7.288   AMIGOS DL CANAL
+  282    265     53  VETERANO B       M     88   SEPULVEDA ROMERO EMILIO                 01:43:50  04:55   12,19   00:36:02    7.321   COOP D TRANSPOR
+  283    266    100  SENIOR           M    127   CANO ACOSTA DAVID                       01:44:14  04:56   12,14   00:36:26    7.374   CA PALMA DL RIO
+  284    267    101  SENIOR           M    127   ESPAÑA GARCIA-HIDALGO JOSE LUIS         01:44:22  04:56   12,13   00:36:34    7.392                  
+  285    268    109  VETERANO A       M    147   CEJUDO PALOMO ANTONIO                   01:44:26  04:57   12,12   00:36:38    7.400   RUNNING SERIES 
+  286    269     54  VETERANO B       M     88   RAMOS AGUILAR FRANCISCO JOSE            01:44:48  04:58   12,08   00:37:00    7.448   AMIGOS DL CANAL
+  287    270    102  SENIOR           M    127   FERNANDEZ CEJAS JUAN                    01:44:54  04:58   12,07   00:37:06    7.461   CA HERRERA     
+  288    271    110  VETERANO A       M    147   CLAVELLINAS MIRANDA ANTONIO JOSE        01:45:02  04:58   12,05   00:37:14    7.479   KENYATAS SANTAE
+  289    272    111  VETERANO A       M    147   LORA GODOY FRANCISCO                    01:45:02  04:58   12,05   00:37:14    7.479   KENYATAS SANTAE
+  290    273    112  VETERANO A       M    147   AGUILERA CABALLERO RAFAEL               01:45:03  04:58   12,05   00:37:15    7.481   KENYATAS SANTAE
+  291    274     55  VETERANO B       M     88   ESPADAS AIRES ANTONIO MIGUEL            01:45:22  04:59   12,01   00:37:34    7.522   AMIGOS DL CANAL
+  292    275     56  VETERANO B       M     88   ALVAREZ AGUILAR ANTONIO JESUS           01:45:23  04:59   12,01   00:37:35    7.524   AMIGOS DL CANAL
+  293    276    113  VETERANO A       M    147   MIRANDA POLINARIO MANOLO MARCOS         01:45:30  05:00   12,00   00:37:42    7.539                  
+  294    277     57  VETERANO B       M     88   LOPEZ ALCAIDE JESUS                     01:45:36  05:00   11,99   00:37:48    7.552   LOS REKEMAOS   
+  295     18      9  VETERANA A       F     20   MATA LOPEZ MARIA JESUS                  01:45:44  05:00   11,97   00:37:56    7.569   AMIGOS DL CANAL
+  296    278     58  VETERANO B       M     88   PEREZ AVILES CARLOS                     01:45:59  05:01   11,94   00:38:11    7.601   AMIGOS DL CANAL
+  297    279    114  VETERANO A       M    147   CAMPOS PALOS GONZALO                    01:46:02  05:01   11,94   00:38:14    7.607                  
+  298    280    103  SENIOR           M    127   MARETIN GALLARDO JAIME                  01:46:03  05:01   11,94   00:38:15    7.609   EPA MIGUEL RIOS
+  299    281    104  SENIOR           M    127   MORIANA PARRADO JESUS PABLO             01:46:10  05:01   11,92   00:38:22    7.624   EPA MIGUEL RIOS
+  300     19      4  VETERANA B       F      8   DEL PINO GARCIA TOÑI                    01:46:11  05:01   11,92   00:38:23    7.626   CA PORCUNA     
+  301     20     10  VETERANA A       F     20   ALVAREZ MORILLA MARI ANGELES            01:46:19  05:02   11,91   00:38:31    7.643   ATLETAS D ELITE
+  302    282    115  VETERANO A       M    147   GUERRERO LOPEZ MIGUEL ANGEL             01:46:24  05:02   11,90   00:38:36    7.654   AMIGOS DL CANAL
+  303    283    105  SENIOR           M    127   SANCHEZ LEON JESUS                      01:46:31  05:02   11,88   00:38:43    7.668                  
+  304    284    106  SENIOR           M    127   CAÑAS MORALES CARLOS                    01:46:33  05:03   11,88   00:38:45    7.673                  
+  305    285     59  VETERANO B       M     88   REINA REINA JOSE RAFAEL                 01:46:35  05:03   11,88   00:38:47    7.677   CA GILENA      
+  306    286    107  SENIOR           M    127   RIVAS MARQUEZ DAVID                     01:46:36  05:03   11,87   00:38:48    7.679   AMIGOS DL CANAL
+  307    287     60  VETERANO B       M     88   BENJUMEA LEON MIGUEL                    01:46:37  05:03   11,87   00:38:49    7.681   AMIGOS DL CANAL
+  308    288     61  VETERANO B       M     88   TORRES GIL FRANCISCO                    01:46:40  05:03   11,87   00:38:52    7.687   AMIGOS DL CANAL
+  309    289    116  VETERANO A       M    147   SANCHEZ ESTRADA ENRIQUE                 01:46:42  05:03   11,86   00:38:54    7.691                  
+  310     21      7  SENIOR           F     18   RIVAS MOLINA MIRIAM MARIA               01:46:49  05:03   11,85   00:39:01    7.706                  
+  311    290     62  VETERANO B       M     88   FERREIRO FERREIRO JOSE LUIS             01:46:58  05:04   11,83   00:39:10    7.725                  
+  312     22      5  VETERANA B       F      8   MARQUEZ CASTILLA MARIA MERCEDES         01:46:58  05:04   11,83   00:39:10    7.725   CA ARROYO D LA 
+  313    291    117  VETERANO A       M    147   BEDMAR ESTRADA LEONARDO                 01:47:00  05:04   11,83   00:39:12    7.729                  
+  314    292    118  VETERANO A       M    147   ESPADAS JIMENEZ JOSE MIGUEL             01:47:00  05:04   11,83   00:39:12    7.729   SILVERBACK TEAM
+  315    293    119  VETERANO A       M    147   BUENO IZQUIERDO FRANCISCO JOSE          01:47:04  05:04   11,82   00:39:16    7.737   SILVERBACK TEAM
+  316    294    108  SENIOR           M    127   BONILLA JARABO IBAN                     01:47:14  05:04   11,80   00:39:26    7.758   AMO ALLA       
+  317    295    109  SENIOR           M    127   SERRANO ORTEGA JOSE LUIS                01:47:19  05:05   11,80   00:39:31    7.768   LOS MAQUINILLAS
+  318    296    120  VETERANO A       M    147   HIDALGO CORRIENTE ANTONIO               01:47:22  05:05   11,79   00:39:34    7.775   AMIGOS DL CANAL
+  319    297    121  VETERANO A       M    147   MARTOS LOPEZ RAFA                       01:47:22  05:05   11,79   00:39:34    7.775   EPA MIGUEL RIOS
+  320    298    122  VETERANO A       M    147   AGUILAR CHAPARRO JESUS                  01:47:23  05:05   11,79   00:39:35    7.777                  
+  321    299    123  VETERANO A       M    147   RODRIGUEZ RODRIGUEZ JESUS               01:47:28  05:05   11,78   00:39:40    7.787   EPA MIGUEL RIOS
+  322    300     63  VETERANO B       M     88   VELA ADAN JOSE LUIS                     01:47:33  05:05   11,77   00:39:45    7.797   AMIGOS DL CANAL
+  323    301    124  VETERANO A       M    147   GONZALEZ RODRIGUEZ ANTONIO J.           01:47:33  05:05   11,77   00:39:45    7.797   EPA MIGUEL RIOS
+  324    302    125  VETERANO A       M    147   MORENO TRUNCES ENRIQUE JOSE             01:47:34  05:05   11,77   00:39:46    7.799                  
+  325    303    126  VETERANO A       M    147   RUZ CAMPOS FRANCISCO JAVIER             01:47:34  05:05   11,77   00:39:46    7.799   AMIGOS DL CANAL
+  326    304     64  VETERANO B       M     88   BASCON GUTIERREZ JOSE A.                01:47:35  05:05   11,77   00:39:47    7.801   EPA MIGUEL RIOS
+  327    305    110  SENIOR           M    127   GUERRERO REYES JUAN MANUEL              01:47:35  05:05   11,77   00:39:47    7.801   AMO ALLA       
+  328     23      8  SENIOR           F     18   AFANADOR PASCUAL AIDA                   01:48:22  05:08   11,68   00:40:34    7.898                  
+  329    306    111  SENIOR           M    127   LOZANO CORONA FERNANDO                  01:48:23  05:08   11,68   00:40:35    7.900                  
+  330    307    112  SENIOR           M    127   HARO MORENO ALVARO                      01:48:24  05:08   11,68   00:40:36    7.902   CA GILENA      
+  331    308     65  VETERANO B       M     88   VALDEOLIVAS ABAD MANUEL                 01:48:27  05:08   11,67   00:40:39    7.908   AMIGOS DL CANAL
+  332    309     66  VETERANO B       M     88   CABEZAS CARMONA JUAN JOSE               01:48:31  05:08   11,66   00:40:43    7.916   AMIGOS DL CANAL
+  333    310     67  VETERANO B       M     88   CAMPOS DELGADO FRANCISCO                01:49:00  05:09   11,61   00:41:12    7.974   EPA MIGUEL RIOS
+  334    311    113  SENIOR           M    127   SALAZAR LOSADA JOSE LUIS                01:49:06  05:10   11,60   00:41:18    7.986   SILVERBACK TEAM
+  335     24     11  VETERANA A       F     20   SECADURAS JODAR ANTONIA                 01:49:22  05:11   11,57   00:41:34    8.018   AMIGOS DL CANAL
+  336    312    114  SENIOR           M    127   LIGERO MONTILLA MANUEL                  01:49:33  05:11   11,55   00:41:45    8.040   ATLETAS D ELITE
+  337    313    115  SENIOR           M    127   RAMIREZ RODRIGUEZ JESUS                 01:49:38  05:11   11,55   00:41:50    8.050   EPA MIGUEL RIOS
+  338    314    116  SENIOR           M    127   ROMERO SANCHEZ JESUS                    01:49:39  05:11   11,54   00:41:51    8.052   EPA MIGUEL RIOS
+  339    315     68  VETERANO B       M     88   CASTILLO JURADO FRANCISCO               01:49:52  05:12   11,52   00:42:04    8.078   LOS NIÑOS DL BA
+  340    316    117  SENIOR           M    127   ALBA VALLEJO FRAN JOSE                  01:49:55  05:12   11,52   00:42:07    8.084   MARATHON ALCAUD
+  341    317      6  VETERANO C       M      9   MARQUEZ MEDINA CIPRIANO                 01:50:06  05:13   11,50   00:42:18    8.105   CA LA ROMPEPIER
+  342     25      9  SENIOR           F     18   RIVAS MOLINA ESTEFANIA                  01:50:12  05:13   11,49   00:42:24    8.117                  
+  343    318    127  VETERANO A       M    147   ARIAS GAMITO ALONSO                     01:50:25  05:14   11,46   00:42:37    8.143                  
+  344    319    128  VETERANO A       M    147   DONOSO SANCHEZ ALFONSO                  01:50:32  05:14   11,45   00:42:44    8.156   ATL TROTASIERRA
+  345    320    129  VETERANO A       M    147   GARCIA GUILLEN LUIS                     01:50:41  05:14   11,44   00:42:53    8.174   CA RUTE        
+  346     26     10  SENIOR           F     18   OGALLA CABELLO CARMEN                   01:50:47  05:15   11,43   00:42:59    8.186   AMIGOS DL CANAL
+  347    321     69  VETERANO B       M     88   OGALLA ROMERO VICTOR JESUS              01:50:48  05:15   11,42   00:43:00    8.187   AMIGOS DL CANAL
+  348     27     11  SENIOR           F     18   TAMARAL BAENA ESTEFANIA                 01:50:59  05:15   11,41   00:43:11    8.209   AMIGOS DL CANAL
+  349    322     70  VETERANO B       M     88   BORREGO BERMUDEZ ADOLFO                 01:51:00  05:15   11,40   00:43:12    8.211   EPA MIGUEL RIOS
+  350    323      7  VETERANO C       M      9   REGAL SOLIS MANUEL DOMINGO              01:51:10  05:16   11,39   00:43:22    8.230                  
+  351    324    130  VETERANO A       M    147   CEJAS BERRAL JOSE MANUEL                01:51:27  05:16   11,36   00:43:39    8.263   AMIGOS DL CANAL
+  352    325      1  SILLA RUEDAS     M      1   BRUGUERA ESTEBAN ALAIN                  01:51:40  05:17   11,34   00:43:52    8.288   CA BELALCAZAR  
+  353    326    131  VETERANO A       M    147   LEYVA LOPEZ JOSE                        01:51:52  05:18   11,32   00:44:04    8.311   AMIGOS DL CANAL
+  354    327    132  VETERANO A       M    147   LANZAS GOMEZ RAFAEL                     01:51:53  05:18   11,31   00:44:05    8.312   AMIGOS DL CANAL
+  355    328    133  VETERANO A       M    147   NAVARRO CAPITAS ANTONIO                 01:52:09  05:18   11,29   00:44:21    8.343   CD LOS INFORMAL
+  356    329    118  SENIOR           M    127   CAÑAS MORALES JOSE MIGUEL               01:52:16  05:19   11,28   00:44:28    8.356                  
+  357    330     71  VETERANO B       M     88   GARRIDO JAIMEZ MANUEL                   01:52:20  05:19   11,27   00:44:32    8.364   CA EL PERDIGON 
+  358    331    134  VETERANO A       M    147   AVILA JIMENEZ JOSE LUIS                 01:52:21  05:19   11,27   00:44:33    8.366   LAS ZORRERAS   
+  359    332     72  VETERANO B       M     88   ESTUDILLOS GAMEZ ANTONIO JESUS          01:53:44  05:23   11,13   00:45:56    8.520                  
+  360     28     12  SENIOR           F     18   ORTEGA DEL PINO LAURA                   01:53:50  05:23   11,12   00:46:02    8.531   CA PORCUNA     
+  361    333     73  VETERANO B       M     88   ORTEGA FERNANDEZ JOSE MARIA             01:53:50  05:23   11,12   00:46:02    8.531   CA PORCUNA     
+  362    334     74  VETERANO B       M     88   LOPEZ CABALLERO WILSON                  01:54:01  05:24   11,10   00:46:13    8.552                  
+  363    335     75  VETERANO B       M     88   CABEZAS NIETO RUFINO                    01:54:13  05:24   11,08   00:46:25    8.574   AMIGOS DL CANAL
+  364    336     76  VETERANO B       M     88   RUIZ MORA RAFAEL                        01:54:15  05:24   11,08   00:46:27    8.577                  
+  365     29     13  SENIOR           F     18   CAMPAÑA SOJO JESSICA                    01:54:15  05:24   11,08   00:46:27    8.577   AMIGOS DL CANAL
+  366    337    119  SENIOR           M    127   ALFARO CASTILLO DAVID                   01:54:18  05:25   11,07   00:46:30    8.583   AMIGOS DL CANAL
+  367    338    135  VETERANO A       M    147   ALHAMA GALISTEO ANTONIO                 01:54:30  05:25   11,06   00:46:42    8.605   AMIGOS DL CANAL
+  368    339     77  VETERANO B       M     88   PALOS CALERO FRANCISCO                  01:54:30  05:25   11,06   00:46:42    8.605   CA ASTIGI      
+  369    340    120  SENIOR           M    127   FERNANDEZ ALCAIDE JUAN A.               01:54:40  05:26   11,04   00:46:52    8.623   EPA MIGUEL RIOS
+  370     30     12  VETERANA A       F     20   SANCHEZ RUIZ ANA                        01:54:47  05:26   11,03   00:46:59    8.635   CA EL PERDIGON 
+  371    341    121  SENIOR           M    127   AGUILAR GONZALEZ MANUEL                 01:54:48  05:26   11,03   00:47:00    8.637   CA EL PERDIGON 
+  372    342     78  VETERANO B       M     88   AYALA SILVA FRANCISCO JESUS             01:54:50  05:26   11,02   00:47:02    8.641   LOS NIÑOS D USS
+  373    343    136  VETERANO A       M    147   LARA MARTINEZ JOSE RAFAEL               01:54:52  05:26   11,02   00:47:04    8.645   CUEVA D NERJA-U
+  374    344    137  VETERANO A       M    147   VILLAFUERTE MUÑOZ JOSE ANGEL            01:54:52  05:26   11,02   00:47:04    8.645                  
+  375     31     14  SENIOR           F     18   CASTILLO CASTELL BEATRIZ                01:55:14  05:27   10,98   00:47:26    8.684   CLUB VIRGEN D B
+  376    345     79  VETERANO B       M     88   ZAMORA GALVEZ JOSE MANUEL               01:55:14  05:27   10,98   00:47:26    8.684                  
+  377     32     13  VETERANA A       F     20   PEREZ CALVILLO GEMA MARIA               01:55:26  05:28   10,97   00:47:38    8.706                  
+  378    346    138  VETERANO A       M    147   GALISTEO ASNEDO RICARDO                 01:55:52  05:29   10,92   00:48:04    8.752   LAS ZORRERAS   
+  379    347     80  VETERANO B       M     88   ABAD PINO FRANCISCO                     01:55:52  05:29   10,92   00:48:04    8.752   LAS ZORRERAS   
+  380    348     81  VETERANO B       M     88   MAQUEDA ESTEPA JOSE MANUEL              01:56:17  05:30   10,89   00:48:29    8.796                  
+  381    349    122  SENIOR           M    127   BERRAL GUTIERREZ ANTONIO                01:56:42  05:31   10,85   00:48:54    8.840                  
+  382    350    123  SENIOR           M    127   BERRAL AGUILAR ANTONIO JESUS            01:56:42  05:31   10,85   00:48:54    8.840   KINBIA         
+  383    351    124  SENIOR           M    127   VALENZUELA TORRES FERMIN                01:57:24  05:33   10,78   00:49:36    8.913                  
+  384    352    139  VETERANO A       M    147   MERINO TORRES MANUEL                    01:57:46  05:34   10,75   00:49:58    8.951                  
+  385    353     82  VETERANO B       M     88   MARTINEZ ARANGO EMILIANO                01:58:00  05:35   10,73   00:50:12    8.975                  
+  386    354    140  VETERANO A       M    147   BENJUMEA LEON MANUEL                    01:58:23  05:36   10,69   00:50:35    9.014   AMIGOS DL CANAL
+  387     33      6  VETERANA B       F      8   TORRES ROMERO ASUNCION                  01:59:10  05:38   10,62   00:51:22    9.094   AMIGOS DL CANAL
+  388     34     14  VETERANA A       F     20   ROMERO VALVERDE SONIA                   01:59:20  05:39   10,61   00:51:32    9.111                  
+  389    355    141  VETERANO A       M    147   ESPAÑA ARJONA MANUEL JESUS              01:59:20  05:39   10,61   00:51:32    9.111                  
+  390    356      8  VETERANO C       M      9   SANCHEZ VINUESA PEDRO                   01:59:38  05:40   10,58   00:51:50    9.141                  
+  391    357    125  SENIOR           M    127   MERINO TORRES SALVADOR                  01:59:47  05:40   10,57   00:51:59    9.156                  
+  392    358    142  VETERANO A       M    147   VIRO ESPEJO ELOY LUIS                   02:00:21  05:42   10,52   00:52:33    9.212   CA PALMA DL RIO
+  393     35      7  VETERANA B       F      8   JIMENEZ ORTEGA DOLORES                  02:00:40  05:43   10,49   00:52:52    9.243   EPA MIGUEL RIOS
+  394    359     83  VETERANO B       M     88   BUENDIA AROCA FRANCISCO                 02:01:33  05:45   10,41   00:53:45    9.329   C.M LUCENA     
+  395    360     84  VETERANO B       M     88   PEREZ VILLAR LEONARDO                   02:01:43  05:46   10,40   00:53:55    9.345   AMIGOS DL CANAL
+  396     36     15  VETERANA A       F     20   MARTINEZ GARCIA SANDRA                  02:02:59  05:49   10,29   00:55:11    9.466   AMIGOS DL CANAL
+  397    361     85  VETERANO B       M     88   GUERRA PRADAS JUAN CARLOS               02:02:59  05:49   10,29   00:55:11    9.466   AMIGOS DL CANAL
+  398     37     16  VETERANA A       F     20   OJEDA MORENO PILAR                      02:03:17  05:50   10,27   00:55:29    9.495   RUNNERS PURA CE
+  399    362    143  VETERANO A       M    147   MURIEL SABARIEGO MANUEL                 02:03:18  05:50   10,27   00:55:30    9.496   RUNNERS PURA CE
+  400    363    126  SENIOR           M    127   MUÑOZ MORALES SERGIO                    02:03:41  05:51   10,23   00:55:53    9.532                  
+  401     38     15  SENIOR           F     18   MUÑOZ MARTINEZ MARTA                    02:04:15  05:53   10,19   00:56:27    9.585   EPA MIGUEL RIOS
+  402     39     16  SENIOR           F     18   ORTIZ VARONA GEMA MARIA                 02:04:20  05:53   10,18   00:56:32    9.593   EPA MIGUEL RIOS
+  403    364    144  VETERANO A       M    147   RIVAS ILLANES ANTONIO                   02:04:50  05:55   10,14   00:57:02    9.639   AMIGOS DL CANAL
+  404    365    127  SENIOR           M    127   PEREA ALMEDA ROGELIO                    02:04:51  05:55   10,14   00:57:03    9.640                  
+  405     40     17  VETERANA A       F     20   PRIETO SANCHEZ MARIA JESUS              02:04:56  05:55   10,13   00:57:08    9.648   EPA MIGUEL RIOS
+  406    366    145  VETERANO A       M    147   MUÑOZ DELGADO ANTONIO                   02:04:57  05:55   10,13   00:57:09    9.649   EPA MIGUEL RIOS
+  407     41     18  VETERANA A       F     20   PORRAS PEREZ MARIA JOSE                 02:05:45  05:57   10,07   00:57:57    9.722                  
+  408     42     17  SENIOR           F     18   MARQUEZ ESTRADA INES                    02:10:09  06:10    9,73   01:02:21   10.107   AMIGOS DL CANAL
+  409     43     18  SENIOR           F     18   JIMENEZ COSANO GEMA                     02:10:09  06:10    9,73   01:02:21   10.107   AMIGOS DL CANAL
+  410    367     86  VETERANO B       M     88   PEREZ GALVEZ FRANCISCO JOSE             02:10:23  06:10    9,71   01:02:35   10.126   AMIGOS DL CANAL
+  411    368      9  VETERANO C       M      9   ARTAJO HERNANDO PEDRO                   02:11:23  06:13    9,63   01:03:35   10.210   AD MARATON JERE
+  412     44      8  VETERANA B       F      8   CARRANZA ALMANSA INMACULADA             02:15:24  06:25    9,35   01:07:36   10.533                  
+  413    369    146  VETERANO A       M    147   PULIDO JIMENEZ JUAN LUIS                02:17:34  06:31    9,20   01:09:46   10.699                  
+  414    370    147  VETERANO A       M    147   CORNEJO ALMEDA RAFAEL                   02:17:34  06:31    9,20   01:09:46   10.699                  
+  415    371     87  VETERANO B       M     88   TAMARAL TORREGROSA JOSE MIGUEL          02:17:35  06:31    9,20   01:09:47   10.701   AMIGOS DL CANAL
+  416     45     19  VETERANA A       F     20   ESPAÑA ARJONA CARMEN MARIA              02:17:36  06:31    9,20   01:09:48   10.702                  
+  417     46     20  VETERANA A       F     20   CEJAS CEJAS MONTSERRAT                  02:17:36  06:31    9,20   01:09:48   10.702                  
+  418    372     88  VETERANO B       M     88   MORENO GUERRERO SILVESTRE               02:18:24  06:33    9,15   01:10:36   10.762   CA RUTE        
+ 
+ 
+Más información e inscripciones:
+http://www.corredorespopulares.es/inscripcion/puente_genil_media/index.php
+ 
+ 
+|  Página principal   |  Febrero 2019   |  Principio de la página  |

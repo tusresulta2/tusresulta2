@@ -1,0 +1,67 @@
+IX Carrera Popular La Alameda
+#FECHA:Domingo 08/09/19
+#LUGAR:San Sebastián de los Ballesteros (Córdoba) Polideportivo Municipal
+#INSCRIPCIONES:online en masatletismo.com y presencial en el ayuntamiento y polideportivo municipal hasta 5 de septiembre 2019 (200 dorsales máximo)
+#PRECIO: 5€ prueba reina y 2€ resto de categorías
+
+#CARRERAS:
+
+$$ICON_HORAHora:10:00h ICON_DISTANCIADistancia 9000m (2 vueltas)
+ICON_CATEGORIAVeterano D (1966 y anteriores)
+ICON_CATEGORIAVeterano C (1967-1971)
+ICON_CATEGORIAVeterano B (1972-1977)
+ICON_CATEGORIAVeterano A (1978-1983)
+ICON_CATEGORIASenior B (1984-1989)
+ICON_CATEGORIASenior A (1990-1996)
+ICON_CATEGORIAJunior (1997-2001)
+ICON_CATEGORIADiscapacitados a pie / silla de ruedas
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 200m
+ICON_CATEGORIADiscapacitados psiquicos
+
+$$ICON_HORAHora:a continuación  ICON_DISTANCIADistancia 4500m (1 vuelta)
+ICON_CATEGORIAJuvenil (2002-2003)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 2500m
+ICON_CATEGORIACadete (2004-2005)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 1200m
+ICON_CATEGORIAInfantil (2006-2007)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 600m
+ICON_CATEGORIAAlevin(2008-2009)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 300m
+ICON_CATEGORIABenjamin (2010-2011)
+
+$$ICON_HORAHora:a continuación ICON_DISTANCIADistancia 100m
+ICON_CATEGORIAPrebenjamin(2012-2013)
+
+$$ICON_HORAHora:20:00h ICON_DISTANCIADistancia 50m
+ICON_CATEGORIAChupetes(2014-2019)
+
+
+#PREMIOS:
+
+TROFEOS
+3 primer@s de cada categoría desde prebenjamines a veteranos (chupetes no tienen trofeos)
+3 primer@s de la general
+3 primer@s locales
+Batir el récord de la prueba 50€
+00:29:42 (Cristóbal Ortigosa Pareja, año 2015) y 00:37:28 (Raquel Hernández Rufs, año 2016)
+
+Medallas para tod@s l@s participantes de categoría base
+Bolsa del corredor con camiseta para tod@s l@s que finalicen la prueba reina
+
+#MAS:
+OTROS SERVICIOS:
+Desayuno molinero a partir de las 10:30h
+Perol de arroz a mediodía
+Duchas
+
+RECODIGA DE DORSALES:
+Los dorsales se entregarán el mismo día de la carrera.
+
+
+RESULTADOS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

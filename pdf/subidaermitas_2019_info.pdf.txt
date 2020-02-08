@@ -1,0 +1,38 @@
+VI Subida a Las Ermitas por la Donación de órganos
+#FECHA: Domingo 8/12/19
+#LUGAR: Salida en el Corte Inglés Av Ronda Tejares y meta en Santuario de Las Ermitas Córdoba
+#INSCRIPCIONES: deportime.com
+#PRECIO: 12€ adultos 
+
+#CARRERAS:
+
+$$ICON_HORAHora:10:00h ICON_DISTANCIADistancia 13'5K
+ICON_CATEGORIAVeterano D (1966 y anteriores)
+ICON_CATEGORIAVeterano C (1967-1971)
+ICON_CATEGORIAVeterano B (1972-1977)
+ICON_CATEGORIAVeterano A (1978-1983)
+ICON_CATEGORIASenior B (1984-1989)
+ICON_CATEGORIASenior A (1990-1996)
+ICON_CATEGORIAJunior (1997-2001)
+
+#PREMIOS:
+Trofeo a l@s 3 primer@s de cada categoría
+Medalla a l@s ganadores absolut@s
+
+#MAS:
+RECOGIDA DE DORSALES:
+Desde las 10h-14h y 17h-21h los días 5 y 7 en Deportes del Hipercor (Crta Trassierra) y el día de la prueba de 8 a 9h en la salida.
+
+SERVICIO DE GUARDA-ROPA
+
+AVITUALLAMIENTOS
+Km4
+Km8
+
+SERVICIO FISIOTERAPIA EN META
+
+SERVICIO DE AUTOCARES
+
+
+RESULTADOS:
+Los resultados estarán disponibles en tusresulta2.com una vez sean subidas oficialmente

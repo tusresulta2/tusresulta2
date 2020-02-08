@@ -1,0 +1,112 @@
+Absoluta General F
+1 366 00:45:22 Lima Rodriguez Janine 1981Club Atletismo Málagaº Gral 04  :32
+2 313 00:45:53 Belmonte Martinez Maria 1970Runners Pura Cepaº Gral 04  :35
+3 402 00:46:48 Ouhaddou Nafie Fatima Azzahraa 1993Club Atletismo Amo Alº Gral 04  :41
+4 308 00:49:45 Averland Sigrid 1969Los Chakalesº Gral 04  :59
+5 435 00:53:47 Amaro Egea Araceli 1977Maraton Lucenaº Gral 05  :23
+6 357 00:56:28 Jimenez Diaz Belen 1991Atletismo Triatlon Lucº Gral 05  :39
+7 419 01:04:37 Ruiz Mesa Mari Carmen 1985Atletismo Montemayor º Gral 06  :28
+Absoluto General M
+1 342 00:36:54 Er Rachid Mohamed 1999Surco Lucenaº Gral 03  :41
+2 439 00:38:39 Ponferrada Hidalgo Javier 1981Independienteº Gral 03  :52
+3 339 00:42:03 Del Pino Martinez Jose Manuel 1989Club Martaton Lucenaº Gral 04  :12
+4 409 00:42:19 Pineda Varo Jesus 1992Club Maraton Lucenaº Gral 04  :14
+5 378 00:43:00 Molero Serena Jesus 1996Club Maraton Lucenaº Gral 04  :18
+6 343 00:43:20 Espejo Gomez Antonio Jesus 1990Independienteº Gral 04  :20
+7 442 00:43:31 Navarro Pacheco Francisco 1973Surco Lucenaº Gral 04  :21
+Discapacitado a pie M
+80 305 01:01:22 Arcos Serrano Francisco 1 1901Club Maraton Lucenaº Gral º Categ. 06  :08
+Junior/Promesa M
+36 440 00:49:55 Trujillo Cordoba Jesus1 1999Maraton Lucenaº Gral º Categ. 04  :60
+71 379 00:59:29 Molero Serena Jeronimo2 1996Club Maraton Lucenaº Gral º Categ. 05  :57
+Juvenil F
+95 315 01:09:07 Briceño Lima Britney 1 2000Cueva De Nerja-Umaº Gral º Categ. 06  :55
+Juvenil M
+43 301 00:53:01 Alamos Lopez Jesus1 2001Independienteº Gral º Categ. 05  :18
+59 412 00:56:12 Pino Moreno Jacob2 2000Independienteº Gral º Categ. 05  :37
+74 352 00:59:38 Gutiérrez Rodríguez Rafael3 2001Independienteº Gral º Categ. 05  :58
+76 323 00:59:48 Cabello Triguero Francisco Jose4 2001Club Maraton Lucenaº Gral º Categ. 05  :59
+82 414 01:03:55 Ramírez Duque Alejandro5 2000Independienteº Gral º Categ. 06  :24
+91 434 01:06:13 Ramirez Buendia Rafael6 2000Independienteº Gral º Categ. 06  :37
+Senior F
+88 303 01:04:55 Alcala Jimenez Silvia1 1984Independienteº Gral º Categ. 06  :30
+Senior M
+10 310 00:44:48 Barranco Guerrero Fco Javier1 1984Club Maratón Lucenaº Gral º Categ. 04  :29
+11 372 00:44:52 Martinez Gomez Julio Eusebio2 1985Trotasierraº Gral º Categ. 04  :29
+13 336 00:45:35 Cubero Muñoz Ruben 3 1987Club Maraton Lucenaº Gral º Categ. 04  :34
+17 306 00:46:18 Arteaga Benjumea Manuel4 1993Runners Pura Cepaº Gral º Categ. 04  :38
+22 318 00:47:05 Budia Díaz Manuel5 1987------º Gral º Categ. 04  :43
+23 390 00:47:10 Muñoz Quirós Enrique6 1995Independienteº Gral º Categ. 04  :43
+29 358 00:48:37 Jimenez Rivas Angel7 1988Independienteº Gral º Categ. 04  :52
+31 347 00:48:53 García Calvillo Julián 8 1989Club Maratón Lucena º Gral º Categ. 04  :53
+34 425 00:49:36 Sánchez Sánchez Ismael9 1992Independiente º Gral º Categ. 04  :58
+39 382 00:50:46 Molina Valenzuela Daniel10 1990Atletismo Y Triatlon Lº Gral º Categ. 05  :05
+41 376 00:51:25 Mesa Osuna Manuel11 1985Independienteº Gral º Categ. 05  :09
+42 423 00:52:37 Sánchez Alba Rafael Jesús12 1991Surco Aventuraº Gral º Categ. 05  :16
+54 350 00:55:21 Garcia Some Jose Luis13 1986Independienteº Gral º Categ. 05  :32
+55 312 00:55:22 Barrasa Sanchez Samuel14 1987Independienteº Gral º Categ. 05  :32
+56 381 00:55:39 Molina Madueño Juan Carlos15 1990Virgen Del Castilloº Gral º Categ. 05  :34
+61 375 00:56:29 Mercader Moraleda Sergio16 1988Independienteº Gral º Categ. 05  :39
+62 433 00:56:30 Serena Escobar Manuel17 1985Atletismo Y Triatlon Lº Gral º Categ. 05  :39
+63 368 00:56:53 López Salido Jose Antonio 18 1986Independienteº Gral º Categ. 05  :41
+65 337 00:56:58 Cubero Muñoz Pedro Jesus19 1987Club Maraton Lucenaº Gral º Categ. 05  :42
+77 405 01:00:15 Peñalver Cabeza Juan20 1982--º Gral º Categ. 06  :02
+81 359 01:01:48 Jimenez Ruiz Fabio21 1992Independienteº Gral º Categ. 06  :11
+83 387 01:04:31 Muñoz Fernández Nahum 22 1987Independienteº Gral º Categ. 06  :27
+84 355 01:04:32 Hidalgo Salamanca Andres23 1990Independienteº Gral º Categ. 06  :27
+92 393 01:06:56 Ochoa Maeso Antonio24 1985Club Atletismo Ruteº Gral º Categ. 06  :42
+94 326 01:06:58 Cáliz Tirado Antonio 25 1993Club Maratón Lucenaº Gral º Categ. 06  :42
+100 302 01:09:24 Alcaide Del Moral Rafael26 1986Independienteº Gral º Categ. 06  :56
+Veterano A M
+8 309 00:44:05 Marin Ruiz Francisco1 1974Club Maraton Lucenaº Gral º Categ. 04  :25
+14 333 00:45:45 Comino  Chacon Manuel2 1977Club Atletismo De Lucº Gral º Categ. 04  :35
+16 319 00:46:01 Bujalance Perez Jose Manuel3 1977Atletismo Y Triatlon Lº Gral º Categ. 04  :36
+18 369 00:46:24 Maillo Caballero Juan Carlos 4 1980Club Atletismo Y Triatlº Gral º Categ. 04  :38
+19 385 00:46:40 Montes Perez Jose Antonio5 1975Club Maraton Lucenaº Gral º Categ. 04  :40
+21 374 00:46:59 Martos Maillo Carlos6 1976Club Maraton Lucenaº Gral º Categ. 04  :42
+26 406 00:47:46 Pérez Cruz José María7 1979Club De Atletismo Rutº Gral º Categ. 04  :47
+27 415 00:47:57 Ramirez Garcia Francisco 8 1973Club Maraton Lucenaº Gral º Categ. 04  :48
+28 314 00:48:05 Bermudez Ruiz Sergio9 1980Independienteº Gral º Categ. 04  :49
+30 432 00:48:43 Zamorano Vergara Manuel10 1972Independienteº Gral º Categ. 04  :52
+32 329 00:49:09 Cantero Ruiz Juan Alberto11 1978Club Maraton Lucenaº Gral º Categ. 04  :55
+33 321 00:49:17 Caballero Sanchez Juan De Mata12 1978Club Maraton Lucenaº Gral º Categ. 04  :56
+37 365 00:50:17 Leiva Lopez Francisco Jose13 1978Ningunoº Gral º Categ. 05  :02
+40 363 00:51:24 Lara Lara Antonio14 1978Independienteº Gral º Categ. 05  :08
+45 331 00:53:24 Carnerero Alguacil Jorge15 1977Independienteº Gral º Categ. 05  :20
+46 410 00:53:42 Pino Corrales Juan16 1975Club Maraton Lucenaº Gral º Categ. 05  :22
+48 346 00:53:57 Gámez Lara Nicolás17 1973Independienteº Gral º Categ. 05  :24
+52 304 00:54:53 Arcos Cortés Miguel Ángel18 1974Club Maratónº Gral º Categ. 05  :29
+53 353 00:55:06 Gutierrez Torralbo Rafael 19 1974Club Maraton Lucenaº Gral º Categ. 05  :31
+57 397 00:55:46 Ortiz  López De Ahumada Javier20 1975Club Maraton Lucena º Gral º Categ. 05  :35
+64 427 00:56:57 Some Calvillo Jose Antonio21 1979Club Maraton Lucenaº Gral º Categ. 05  :42
+66 335 00:57:11 Cortés Cabrera Pedro22 1974Maratón Lucenaº Gral º Categ. 05  :43
+67 436 00:57:12 Luna Marin Sergio 23 1979Maraton Lucenaº Gral º Categ. 05  :43
+69 360 00:58:08 Jiménez Servián Juan Carlos24 1976Independiente º Gral º Categ. 05  :49
+75 322 00:59:42 Cabello Lanzas Isidoro25 1972Independienteº Gral º Categ. 05  :58
+79 345 01:00:39 Fernandez Garcia Francisco Javier26 1973Independienteº Gral º Categ. 06  :04
+81 373 01:01:48 Martos  Maillo Andres27 1979Club Atletismo De Lucº Gral º Categ. 06  :11
+89 400 01:04:56 Osuna Doblas Rafael28 1979Independiente º Gral º Categ. 06  :30
+95 316 01:09:07 Briceño Venegas Eduardo29 1977Club Atletismo Málagaº Gral º Categ. 06  :55
+97 354 01:09:13 Hidalgo Aguilera José María 30 1975Independiente º Gral º Categ. 06  :55
+98 420 01:09:14 Ruiz Roldan Antonio31 1973Independienteº Gral º Categ. 06  :55
+99 399 01:09:16 Ostos Muñoz Angel Antonio32 1973Independienteº Gral º Categ. 06  :56
+103 407 01:18:25 Pérez García Jacob33 1980Independienteº Gral º Categ. 07  :51
+Veterano B M
+9 429 00:44:32 Valera Lara Juan 1 1971Club Maraton Lucenaº Gral º Categ. 04  :27
+25 377 00:47:43 Molero González Felipe2 1969Independienteº Gral º Categ. 04  :46
+50 430 00:54:15 Vargas Villaba Jose3 1970Independienteº Gral º Categ. 05  :26
+68 388 00:57:31 Muñoz Jiménez Jesús4 1971Cria Club Running Inmº Gral º Categ. 05  :45
+70 371 00:59:06 Marín Ruiz Raimundo Javier5 1971Independiente º Gral º Categ. 05  :55
+82 348 01:03:55 Garcia Gonzalez Jose Maria 6 1969Independienteº Gral º Categ. 06  :24
+90 380 01:05:12 Molero Pino Jeronimo7 1966Club Maraton Lucenaº Gral º Categ. 06  :31
+101 362 01:10:12 Lara Fernández Manuel8 1970---º Gral º Categ. 07  :01
+Veterano C M
+24 356 00:47:17 Jimenez Casado Antonio 1 1964Club Atletismo De Lucº Gral º Categ. 04  :44
+38 411 00:50:45 Pino Lara Pablo2 1959Club Maraton Lucenaº Gral º Categ. 05  :05
+44 324 00:53:09 Cabrera Romero Antonio3 1964Club Maraton Lucenaº Gral º Categ. 05  :19
+49 325 00:54:06 Cabrera Romero Juan 4 1964Club Maraton Lucenaº Gral º Categ. 05  :25
+51 396 00:54:52 Ortega Ortega Manuel 5 1963Club Maraton Lucenaº Gral º Categ. 05  :29
+58 383 00:55:53 Montero Macho Juan Manuel6 1961Trotasierraº Gral º Categ. 05  :35
+86 421 01:04:39 Ruíz Ruiz Manuel7 1960Atletismo Montemayor º Gral º Categ. 06  :28
+102 317 01:15:53 Briones Muriel Francisco8 1961Club Maraton Lucenaº Gral º Categ. 07  :35
+104 367 01:19:25 Lopez Chavez Hipolito9 1956Independienteº Gral º Categ. 07  :57
